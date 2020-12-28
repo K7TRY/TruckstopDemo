@@ -1,0 +1,3502 @@
+[
+  {
+    "Amount": 15,
+    "TransactionId": "efc61916-7ad4-332c-49ff-3dfdce26aafa",
+    "Cleared": "true",
+    "TransactionDateTime": "1999-08-17T13:29:40.794Z",
+    "AccountId": "f0afb201-7257-1070-8156-1540fce4861a"
+  },
+  {
+    "Amount": 652,
+    "TransactionId": "b0761e77-ecc5-f6d6-0b58-7ac05d7d3b6b",
+    "Cleared": "true",
+    "TransactionDateTime": "2016-10-25T12:49:48.536Z",
+    "AccountId": "153aaa12-dee1-ec2d-3857-ee8706b154b7"
+  },
+  {
+    "Amount": 307,
+    "TransactionId": "c71e78ea-695e-41f4-94e4-e2858ae4e0b7",
+    "Cleared": "true",
+    "TransactionDateTime": "1980-07-21T18:22:54.740Z",
+    "AccountId": "ef5a7d26-7d6f-3855-8d61-eb0111d8b358"
+  },
+  {
+    "Amount": 232,
+    "TransactionId": "bec0a2ca-35ac-074d-6f59-fb5de39eadc7",
+    "Cleared": "true",
+    "TransactionDateTime": "2008-03-21T21:09:05.946Z",
+    "AccountId": "4d9f1ec3-fde0-a4e0-df57-ce31abd9b569"
+  },
+  {
+    "Amount": 209,
+    "TransactionId": "334978e1-4933-5eb3-2aa4-2805776fbb60",
+    "Cleared": "true",
+    "TransactionDateTime": "1987-04-18T08:41:40.016Z",
+    "AccountId": "6c3fc2ab-d6e2-fb7f-1839-f7020040414f"
+  },
+  {
+    "Amount": 578,
+    "TransactionId": "040bdfa1-a723-9994-06ff-ee6475efc8ae",
+    "Cleared": "true",
+    "TransactionDateTime": "2004-04-23T11:38:51.410Z",
+    "AccountId": "dc7a2006-ad55-d67e-85fa-9e9726228a28"
+  },
+  {
+    "Amount": 504,
+    "TransactionId": "4a3ea07a-e91e-1a87-99c0-e274317839a2",
+    "Cleared": "true",
+    "TransactionDateTime": "1995-11-24T07:58:42.832Z",
+    "AccountId": "41321efd-e8a9-7ed1-5cf4-99422c914aae"
+  },
+  {
+    "Amount": 627,
+    "TransactionId": "dd1d0911-d89d-e80c-e8d8-0d15b3f93fef",
+    "Cleared": "true",
+    "TransactionDateTime": "2013-08-17T17:02:42.691Z",
+    "AccountId": "76bd27ac-2b92-d668-2de9-322256314deb"
+  },
+  {
+    "Amount": 584,
+    "TransactionId": "8b24272f-2ab7-446e-08f1-037db2342478",
+    "Cleared": "true",
+    "TransactionDateTime": "2016-11-10T00:45:32.137Z",
+    "AccountId": "f37b8e84-050d-c90c-caf6-a1620fc3b72a"
+  },
+  {
+    "Amount": 316,
+    "TransactionId": "d98e8541-bd80-9772-17a4-1416e9edb43e",
+    "Cleared": "true",
+    "TransactionDateTime": "2000-08-23T10:20:52.827Z",
+    "AccountId": "284c4861-2c33-edb5-574f-508b3144bb1c"
+  },
+  {
+    "Amount": 121,
+    "TransactionId": "04ac6741-bf60-784b-559e-fb38c49fecba",
+    "Cleared": "true",
+    "TransactionDateTime": "2006-06-09T14:27:35.706Z",
+    "AccountId": "81bfb7c4-e1d5-f7ce-e7b1-b518e2181cac"
+  },
+  {
+    "Amount": 355,
+    "TransactionId": "23ceeacd-9741-7a8b-127b-3cab033b3994",
+    "Cleared": "true",
+    "TransactionDateTime": "2018-02-22T06:22:12.446Z",
+    "AccountId": "f60c30d4-4f13-18df-c85c-79259383ce9d"
+  },
+  {
+    "Amount": 836,
+    "TransactionId": "491d9f2a-f7c4-8277-9fef-a51a3175708b",
+    "Cleared": "true",
+    "TransactionDateTime": "1998-11-28T02:05:46.593Z",
+    "AccountId": "e3b4d021-7b4a-b642-6012-b82e22af3830"
+  },
+  {
+    "Amount": 253,
+    "TransactionId": "ac6f7b22-9e7f-4db5-1589-09e402246a44",
+    "Cleared": "true",
+    "TransactionDateTime": "1995-07-25T20:38:40.371Z",
+    "AccountId": "192daa38-f278-5a38-cd04-11a00507422d"
+  },
+  {
+    "Amount": 930,
+    "TransactionId": "3f659041-115b-8dbb-a84d-31b4b38191ee",
+    "Cleared": "true",
+    "TransactionDateTime": "2007-12-12T13:16:36.145Z",
+    "AccountId": "392e6351-6399-a4e6-b509-dd3c14e7e1ce"
+  },
+  {
+    "Amount": 320,
+    "TransactionId": "106d68fa-9b3d-898d-d396-523f472c601e",
+    "Cleared": "true",
+    "TransactionDateTime": "1987-11-26T15:53:07.917Z",
+    "AccountId": "220105aa-5748-d2a3-541b-8d65d69d95e5"
+  },
+  {
+    "Amount": 263,
+    "TransactionId": "a45b96e1-94e7-568e-d8d2-40ead64ea7ab",
+    "Cleared": "true",
+    "TransactionDateTime": "1987-09-05T11:38:06.651Z",
+    "AccountId": "e86ce728-8aa9-ca36-7f49-f927ab28c3a6"
+  },
+  {
+    "Amount": 350,
+    "TransactionId": "20b86ba3-b2ed-9e7b-0960-f5af66b82602",
+    "Cleared": "true",
+    "TransactionDateTime": "1983-01-08T23:24:47.751Z",
+    "AccountId": "0a3f3f10-19bd-81e7-7fe8-b88c46a69ecc"
+  },
+  {
+    "Amount": 874,
+    "TransactionId": "df92c98e-f352-8c86-d76a-56e1acbe7eee",
+    "Cleared": "true",
+    "TransactionDateTime": "1987-03-21T11:52:09.068Z",
+    "AccountId": "40ffbea3-473c-aa0e-96d0-2b258aa45bcb"
+  },
+  {
+    "Amount": 876,
+    "TransactionId": "f6ec1c07-1fa2-1816-2eb4-5a4718dd91c7",
+    "Cleared": "true",
+    "TransactionDateTime": "2012-06-22T06:40:21.595Z",
+    "AccountId": "60044f3e-4cfe-40ac-4f7d-63d6b2bf6f74"
+  },
+  {
+    "Amount": 959,
+    "TransactionId": "4cc6ee9c-f4e5-4493-0ef1-aac37e8e4e58",
+    "Cleared": "true",
+    "TransactionDateTime": "2000-09-27T23:04:46.901Z",
+    "AccountId": "70169603-6644-b518-cd4b-919fcb6619b1"
+  },
+  {
+    "Amount": 991,
+    "TransactionId": "446574d0-093c-35b6-2455-29cf6d9e7cd1",
+    "Cleared": "true",
+    "TransactionDateTime": "1986-02-20T21:17:46.500Z",
+    "AccountId": "dc51f1e5-a836-442f-f1f0-874889cae9c5"
+  },
+  {
+    "Amount": 423,
+    "TransactionId": "3e550357-9c99-ce9b-f3e6-f8685a6561de",
+    "Cleared": "true",
+    "TransactionDateTime": "2015-10-19T13:48:53.654Z",
+    "AccountId": "70dc7841-003d-2d2f-a9d2-89c2e266cb4d"
+  },
+  {
+    "Amount": 840,
+    "TransactionId": "a9b39c95-4384-dbe0-af15-5255aa021118",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-10-22T03:05:50.852Z",
+    "AccountId": "a9bf695d-6a18-c3a2-98ad-c5394b9feaeb"
+  },
+  {
+    "Amount": 225,
+    "TransactionId": "da4c18a5-dd03-0b55-ea28-87fb754ccf27",
+    "Cleared": "true",
+    "TransactionDateTime": "1992-01-30T18:47:22.054Z",
+    "AccountId": "d6d91fbd-4d96-0769-7c50-bbf890cc6b6d"
+  },
+  {
+    "Amount": 929,
+    "TransactionId": "94d36037-b028-1d4b-fd7f-336b18263c19",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-05-02T04:51:18.172Z",
+    "AccountId": "e72b0df1-19e8-270e-3c0b-44680075df3c"
+  },
+  {
+    "Amount": 941,
+    "TransactionId": "235e8c51-ad85-6ebe-c4af-b230572e8b4a",
+    "Cleared": "true",
+    "TransactionDateTime": "2006-07-24T20:51:50.251Z",
+    "AccountId": "b54a6872-acf3-01e2-93c4-54bf579fc9d5"
+  },
+  {
+    "Amount": 902,
+    "TransactionId": "49d551d3-e93f-4e79-2149-093cf52203f3",
+    "Cleared": "true",
+    "TransactionDateTime": "2014-12-03T20:41:48.583Z",
+    "AccountId": "bd4689ca-54fb-74c5-bd16-9384d362cec9"
+  },
+  {
+    "Amount": 711,
+    "TransactionId": "51d81255-7c93-d1d1-4ade-0f161854346f",
+    "Cleared": "true",
+    "TransactionDateTime": "2009-12-24T08:25:16.677Z",
+    "AccountId": "a0a9d23e-089d-09af-2fbb-e19fda36a747"
+  },
+  {
+    "Amount": 940,
+    "TransactionId": "a535b3e0-23b7-8aea-264d-504cc13602b0",
+    "Cleared": "true",
+    "TransactionDateTime": "2005-02-13T01:32:46.198Z",
+    "AccountId": "3cf67e2e-4539-b6d2-7c29-3398db4330c0"
+  },
+  {
+    "Amount": 249,
+    "TransactionId": "8e96682b-bd2b-1812-1897-1d5bdb2e448c",
+    "Cleared": "true",
+    "TransactionDateTime": "2002-08-11T21:30:12.532Z",
+    "AccountId": "eea1576a-4b44-ed19-aae5-3272a70c2a9d"
+  },
+  {
+    "Amount": 245,
+    "TransactionId": "6cfa8fea-92ee-4256-8ce9-58371f0827fa",
+    "Cleared": "true",
+    "TransactionDateTime": "1983-03-30T13:12:37.184Z",
+    "AccountId": "0eb85f8e-a51d-179d-81d3-3c0b3fac475e"
+  },
+  {
+    "Amount": 766,
+    "TransactionId": "b3a7726b-929a-c523-aeb1-0890169dadd5",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-02-08T14:28:25.998Z",
+    "AccountId": "d17e4fd3-9747-64ea-4d60-f4e920153668"
+  },
+  {
+    "Amount": 510,
+    "TransactionId": "56ddc3a0-0ced-8a64-bf4a-682c415b7050",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-01-29T21:40:11.455Z",
+    "AccountId": "3671429b-b1a2-4b87-5a3a-aae345a42f44"
+  },
+  {
+    "Amount": 826,
+    "TransactionId": "b4bc64a9-8995-cf37-a3d7-982f3d6a47ee",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-02-04T11:13:14.291Z",
+    "AccountId": "185466eb-4ff1-c68d-4e82-0bd59a02e06b"
+  },
+  {
+    "Amount": 135,
+    "TransactionId": "bec1bbee-3c64-07bf-55e0-1ce4fb3c75d2",
+    "Cleared": "true",
+    "TransactionDateTime": "2015-08-14T22:39:29.348Z",
+    "AccountId": "b96c8a34-812b-bcfb-08fa-37285bd9cf1e"
+  },
+  {
+    "Amount": 664,
+    "TransactionId": "e992003d-a486-c705-194f-b9970369d712",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-08-12T05:17:20.337Z",
+    "AccountId": "2f5e488e-0c3f-d909-9104-ed57b1ff0096"
+  },
+  {
+    "Amount": 459,
+    "TransactionId": "2581a6fa-67b9-4b4d-88a1-22532fdbaa5f",
+    "Cleared": "true",
+    "TransactionDateTime": "2019-09-03T18:23:12.419Z",
+    "AccountId": "d1274fbc-4859-2e7d-8e1e-60406319b5bf"
+  },
+  {
+    "Amount": 415,
+    "TransactionId": "62e6bf11-64f9-468a-4b62-fbe2e49d9dfd",
+    "Cleared": "true",
+    "TransactionDateTime": "1991-07-01T16:53:58.472Z",
+    "AccountId": "7411328b-7c3c-d15b-85cb-35b097d1fb3c"
+  },
+  {
+    "Amount": 258,
+    "TransactionId": "ca15d300-cf02-5d9c-e332-20b7ec1df008",
+    "Cleared": "true",
+    "TransactionDateTime": "2010-11-07T16:15:12.050Z",
+    "AccountId": "a264f653-da82-2de4-b32d-0d0634458c34"
+  },
+  {
+    "Amount": 411,
+    "TransactionId": "543f6683-3da4-34f7-2ea6-e61460d9d4f5",
+    "Cleared": "true",
+    "TransactionDateTime": "2011-02-23T21:30:53.833Z",
+    "AccountId": "11471a37-327a-59fd-3935-4a6d348f1231"
+  },
+  {
+    "Amount": 500,
+    "TransactionId": "379aed63-fd1c-00b4-1a21-df57398d7070",
+    "Cleared": "true",
+    "TransactionDateTime": "1981-12-22T00:54:39.425Z",
+    "AccountId": "bb34f310-955c-3d98-835c-fea4b29c0e71"
+  },
+  {
+    "Amount": 309,
+    "TransactionId": "a05ef5cb-e2ba-a26c-e6e8-77d194ae4a53",
+    "Cleared": "true",
+    "TransactionDateTime": "1992-12-13T12:15:54.360Z",
+    "AccountId": "13fba4db-b9bc-36bd-6e68-5de3b289dfc4"
+  },
+  {
+    "Amount": 79,
+    "TransactionId": "ba0523c9-b0cb-1040-8dd6-520cddaa4bff",
+    "Cleared": "true",
+    "TransactionDateTime": "2001-12-28T01:00:22.617Z",
+    "AccountId": "eafcf93c-dce8-e577-cfb7-8b3c38c884ff"
+  },
+  {
+    "Amount": 848,
+    "TransactionId": "eb668073-158e-d6c2-4c4b-755a2fc3ae4a",
+    "Cleared": "true",
+    "TransactionDateTime": "2014-07-23T01:20:49.601Z",
+    "AccountId": "71c899bb-0b13-e1f8-ab62-9b106dfced91"
+  },
+  {
+    "Amount": 578,
+    "TransactionId": "c1ba6c61-4db1-bcf9-b85e-b53b1109328b",
+    "Cleared": "true",
+    "TransactionDateTime": "2010-08-20T09:30:58.656Z",
+    "AccountId": "2901947f-f83f-3585-cfa7-9bb4a1389277"
+  },
+  {
+    "Amount": 289,
+    "TransactionId": "61aa780d-5328-d16c-33cb-e46f37344ee6",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-10-15T17:36:25.619Z",
+    "AccountId": "20d8d81e-176c-bd15-9387-00ea29c6f823"
+  },
+  {
+    "Amount": 207,
+    "TransactionId": "8c6a98cd-4d07-12a3-a986-7ec5883f3d4d",
+    "Cleared": "true",
+    "TransactionDateTime": "1985-02-01T01:52:04.107Z",
+    "AccountId": "8692edc7-f105-aaa2-d73d-306f8c7000d5"
+  },
+  {
+    "Amount": 95,
+    "TransactionId": "8e6ed6d7-27a5-dd4a-8da1-800d8fa90fbb",
+    "Cleared": "true",
+    "TransactionDateTime": "1995-02-15T12:50:47.368Z",
+    "AccountId": "c92d7652-00da-1a3e-4994-142524897cc3"
+  },
+  {
+    "Amount": 288,
+    "TransactionId": "a8e3d453-e9c8-778d-f564-4638ec5b0b1a",
+    "Cleared": "true",
+    "TransactionDateTime": "1993-03-26T08:34:41.633Z",
+    "AccountId": "0c1bdba6-39a7-6263-8f87-1c83f9e2ef71"
+  },
+  {
+    "Amount": 942,
+    "TransactionId": "194a9d3b-8e0b-6c51-53cc-77947c8e9c39",
+    "Cleared": "true",
+    "TransactionDateTime": "2000-06-04T20:39:51.147Z",
+    "AccountId": "8f0edc74-6df1-a73e-a6ca-56cbe9d128dd"
+  },
+  {
+    "Amount": 456,
+    "TransactionId": "b81d8589-ad4a-6d06-43aa-4db14163a9e1",
+    "Cleared": "true",
+    "TransactionDateTime": "1983-04-23T23:07:34.822Z",
+    "AccountId": "776cba5b-24b8-51c2-decf-4bb67e01ce21"
+  },
+  {
+    "Amount": 971,
+    "TransactionId": "3c20bfd6-3b37-c92a-2ed2-db111b1774f5",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-06-16T12:46:22.785Z",
+    "AccountId": "eb78db8a-ac29-d03e-9fd2-8185c07886e0"
+  },
+  {
+    "Amount": 238,
+    "TransactionId": "b2bb62dc-b8e0-3fd6-4555-dd4b49949581",
+    "Cleared": "true",
+    "TransactionDateTime": "1988-12-02T11:11:59.270Z",
+    "AccountId": "694ab521-ab46-93cf-6e01-c06155bcb745"
+  },
+  {
+    "Amount": 124,
+    "TransactionId": "9e8b76a7-98e4-e3a7-e619-79633fd662c4",
+    "Cleared": "true",
+    "TransactionDateTime": "2008-06-05T05:10:47.100Z",
+    "AccountId": "71f2db00-70b4-25ba-70f4-8e9ff32579cf"
+  },
+  {
+    "Amount": 410,
+    "TransactionId": "83f1009a-db3e-c07c-2860-93bd874601fe",
+    "Cleared": "true",
+    "TransactionDateTime": "1980-08-25T00:00:51.933Z",
+    "AccountId": "8bcd7ef5-2647-4153-de5e-8e064c1ffe3d"
+  },
+  {
+    "Amount": 417,
+    "TransactionId": "329789e8-5a74-bb22-174a-888efb8315b6",
+    "Cleared": "true",
+    "TransactionDateTime": "2008-07-13T08:26:57.755Z",
+    "AccountId": "6f3279a6-1a8f-6e5a-f105-865eed1447e7"
+  },
+  {
+    "Amount": 556,
+    "TransactionId": "4737091a-b7fa-b5a7-6ba2-f58867acb7ea",
+    "Cleared": "true",
+    "TransactionDateTime": "1993-12-07T22:06:12.927Z",
+    "AccountId": "576447bf-0001-1751-db1d-5d03bbc46cde"
+  },
+  {
+    "Amount": 699,
+    "TransactionId": "9afcc905-635f-004c-1e8e-63e068cce56f",
+    "Cleared": "true",
+    "TransactionDateTime": "2007-09-03T12:17:19.217Z",
+    "AccountId": "8270b81c-0275-4915-cc65-134168f0556c"
+  },
+  {
+    "Amount": 700,
+    "TransactionId": "4b4ffe22-36cb-e402-4f87-3fc143a05ed0",
+    "Cleared": "true",
+    "TransactionDateTime": "1997-07-11T08:29:29.532Z",
+    "AccountId": "ac9a848e-4b4b-0f09-0f77-4c6338f263b8"
+  },
+  {
+    "Amount": 779,
+    "TransactionId": "9a0184e6-420f-d189-b72c-340791b5c31e",
+    "Cleared": "true",
+    "TransactionDateTime": "2013-01-04T09:56:08.807Z",
+    "AccountId": "1a744ece-f637-c762-7cf5-aa48991d850d"
+  },
+  {
+    "Amount": 207,
+    "TransactionId": "5a90522e-66ac-7408-234b-ed130d344c58",
+    "Cleared": "true",
+    "TransactionDateTime": "2017-12-15T01:30:01.899Z",
+    "AccountId": "1b0c9fc6-c7b4-5110-3668-5e5e79578274"
+  },
+  {
+    "Amount": 551,
+    "TransactionId": "4baf02e8-f13b-3ff2-97f3-7e0d71db6dd1",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-03-20T23:46:12.109Z",
+    "AccountId": "42ce21de-fe44-2fb8-0f6d-11070050c64f"
+  },
+  {
+    "Amount": 757,
+    "TransactionId": "48f621c6-a689-eaa7-819b-336df1a08e98",
+    "Cleared": "true",
+    "TransactionDateTime": "1997-07-10T10:27:32.983Z",
+    "AccountId": "b17326fc-3808-dad6-7eb9-0bbaf6ad05fe"
+  },
+  {
+    "Amount": 956,
+    "TransactionId": "e1f3a3c3-71cc-05a7-08ea-e82dbd258a99",
+    "Cleared": "true",
+    "TransactionDateTime": "1995-03-17T21:19:36.242Z",
+    "AccountId": "4c29f5c7-f4df-cfe1-9dce-8bcf608e4ebd"
+  },
+  {
+    "Amount": 783,
+    "TransactionId": "9e86cfa7-2a7b-ab52-2b68-af8a800b7870",
+    "Cleared": "true",
+    "TransactionDateTime": "2013-09-15T20:20:16.720Z",
+    "AccountId": "831c3b45-c194-5510-c9c4-3fb9afb093ae"
+  },
+  {
+    "Amount": 190,
+    "TransactionId": "12f89aa7-ad1a-4a43-5c61-019194e280b7",
+    "Cleared": "true",
+    "TransactionDateTime": "2011-03-06T03:44:09.706Z",
+    "AccountId": "23166a8a-3b61-a939-ca8c-2625dcdf6a8c"
+  },
+  {
+    "Amount": 571,
+    "TransactionId": "2b9168e2-f3ed-bdc4-eabf-e793a966946d",
+    "Cleared": "true",
+    "TransactionDateTime": "2017-10-04T07:11:55.247Z",
+    "AccountId": "d56515b0-9a51-42ee-3da1-1b78f9af3658"
+  },
+  {
+    "Amount": 850,
+    "TransactionId": "d3fe32fd-5c30-62df-29ce-0f17911aee26",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-05-29T15:01:58.224Z",
+    "AccountId": "01ff6ed5-1400-7190-a232-56f0d11839c8"
+  },
+  {
+    "Amount": 713,
+    "TransactionId": "bb9bf893-f901-e697-df81-75ba0cc28d1e",
+    "Cleared": "true",
+    "TransactionDateTime": "2016-09-20T23:08:54.764Z",
+    "AccountId": "b355b203-1c5b-b4b5-3a13-07326170c139"
+  },
+  {
+    "Amount": 873,
+    "TransactionId": "e4626307-61e6-ea64-f8c4-2a598f458c36",
+    "Cleared": "true",
+    "TransactionDateTime": "2003-09-06T21:27:24.216Z",
+    "AccountId": "95cc4910-bf9b-12c5-62e9-d2189a3fb51c"
+  },
+  {
+    "Amount": 738,
+    "TransactionId": "57951633-84d3-fce1-e164-5a95b0291d76",
+    "Cleared": "true",
+    "TransactionDateTime": "1998-08-03T05:44:08.647Z",
+    "AccountId": "264432a3-4fd7-bd74-87e2-2d8644cc53dd"
+  },
+  {
+    "Amount": 329,
+    "TransactionId": "1a02baf4-8aa7-ca52-1255-dcb72e79130b",
+    "Cleared": "true",
+    "TransactionDateTime": "2011-11-27T01:21:44.723Z",
+    "AccountId": "d24e7920-4186-72d9-8da9-c86454e979b3"
+  },
+  {
+    "Amount": 958,
+    "TransactionId": "519d6fa7-2dee-9ece-6d29-fe77b35810bf",
+    "Cleared": "true",
+    "TransactionDateTime": "1998-03-25T14:25:01.002Z",
+    "AccountId": "4f9ce6a8-31ef-c986-5357-bebbf8c266f1"
+  },
+  {
+    "Amount": 356,
+    "TransactionId": "08435dad-901a-8e09-f022-eb9d19c3dd43",
+    "Cleared": "true",
+    "TransactionDateTime": "2003-05-28T15:33:49.129Z",
+    "AccountId": "6fedc076-15d1-b80d-52bb-fa45bbe17121"
+  },
+  {
+    "Amount": 875,
+    "TransactionId": "746ae54d-e7b2-70b1-4f0f-7e9a1cbcdeb1",
+    "Cleared": "true",
+    "TransactionDateTime": "2002-12-27T23:20:58.951Z",
+    "AccountId": "6574b64b-4af0-b6af-00cc-8bbbd2ef5143"
+  },
+  {
+    "Amount": 796,
+    "TransactionId": "fb736812-3b25-c7d6-6347-c0383880fa34",
+    "Cleared": "true",
+    "TransactionDateTime": "1993-06-23T05:50:37.621Z",
+    "AccountId": "852dd0e9-3620-73c3-bc58-bab8a8e4e0c5"
+  },
+  {
+    "Amount": 128,
+    "TransactionId": "96a39be3-a3a0-000b-a4fe-9b75fe6365df",
+    "Cleared": "true",
+    "TransactionDateTime": "2002-11-19T00:10:30.908Z",
+    "AccountId": "fe99af2d-8d9d-76ad-cc3f-4cca0937790d"
+  },
+  {
+    "Amount": 876,
+    "TransactionId": "311387c9-0d06-5818-278d-c9316c73b708",
+    "Cleared": "true",
+    "TransactionDateTime": "2008-11-07T20:50:17.579Z",
+    "AccountId": "3dcdd219-9280-d579-9cf2-49bb2b21c80b"
+  },
+  {
+    "Amount": 73,
+    "TransactionId": "8881dd93-cfdf-1756-1cbe-805572aafc87",
+    "Cleared": "true",
+    "TransactionDateTime": "1989-09-26T11:35:03.900Z",
+    "AccountId": "d5a14383-879a-d4a7-9641-00dbbf62d8da"
+  },
+  {
+    "Amount": 932,
+    "TransactionId": "f7a70305-734d-4f62-5379-71d4f67a937a",
+    "Cleared": "true",
+    "TransactionDateTime": "2009-08-24T15:08:25.167Z",
+    "AccountId": "735db870-15c5-6c28-b3b4-0da524d5f041"
+  },
+  {
+    "Amount": 213,
+    "TransactionId": "15e81f77-cfc4-f510-7e36-2f94348e4ac0",
+    "Cleared": "true",
+    "TransactionDateTime": "1998-10-08T22:13:03.627Z",
+    "AccountId": "28284a03-68c4-be2e-a9f8-0117440d8f48"
+  },
+  {
+    "Amount": 523,
+    "TransactionId": "86267c2f-85e8-0c80-fdc0-79e22b67e560",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-06-22T02:19:34.155Z",
+    "AccountId": "9897fd1c-65aa-e9bc-d54e-71f8ea111927"
+  },
+  {
+    "Amount": 21,
+    "TransactionId": "426b12b1-a3f1-38e4-0de4-985a2ec44681",
+    "Cleared": "true",
+    "TransactionDateTime": "1980-10-04T06:06:40.054Z",
+    "AccountId": "319305c9-576d-9082-7a90-c410f86d1be0"
+  },
+  {
+    "Amount": 216,
+    "TransactionId": "04c60e11-9129-13fb-010f-aa1ede927d1e",
+    "Cleared": "true",
+    "TransactionDateTime": "2012-10-30T14:33:50.929Z",
+    "AccountId": "2e4b932d-8fb4-28fe-3dd1-96379af84e37"
+  },
+  {
+    "Amount": 731,
+    "TransactionId": "a0cee694-465d-f0fd-4110-4b85290ff5c7",
+    "Cleared": "true",
+    "TransactionDateTime": "1986-12-01T04:30:46.461Z",
+    "AccountId": "909f8777-ff10-9be0-fabb-d2f1ccf8772f"
+  },
+  {
+    "Amount": 886,
+    "TransactionId": "53ef33f4-22e4-073c-e95e-f31985708ab9",
+    "Cleared": "true",
+    "TransactionDateTime": "2012-01-13T19:36:36.234Z",
+    "AccountId": "f42a6386-37d8-3386-abc4-7ff6f7b07072"
+  },
+  {
+    "Amount": 121,
+    "TransactionId": "cb7cd606-357c-88eb-06f4-15114dfab20e",
+    "Cleared": "true",
+    "TransactionDateTime": "2008-03-19T00:22:15.932Z",
+    "AccountId": "321fba7d-be87-1048-be16-b10ecdd987a6"
+  },
+  {
+    "Amount": 284,
+    "TransactionId": "e12b68dc-5f40-a1e6-8bb9-5d315f3d48a5",
+    "Cleared": "true",
+    "TransactionDateTime": "1991-04-10T06:24:53.073Z",
+    "AccountId": "23d10111-8252-9759-3840-4fb09d26b8e2"
+  },
+  {
+    "Amount": 816,
+    "TransactionId": "cb553dc4-e68b-7660-4e0f-3ec8b0e37039",
+    "Cleared": "true",
+    "TransactionDateTime": "1994-09-14T02:00:56.656Z",
+    "AccountId": "0b40cfd4-130c-f1db-ab54-e888a25d0f96"
+  },
+  {
+    "Amount": 824,
+    "TransactionId": "d232c34b-a8b5-5203-766c-19f3a78da927",
+    "Cleared": "true",
+    "TransactionDateTime": "2015-05-24T22:59:56.303Z",
+    "AccountId": "4b7776b2-4318-5da7-f99c-144728a873a6"
+  },
+  {
+    "Amount": 382,
+    "TransactionId": "b3bc97a2-6df6-d636-2f40-3926817e5250",
+    "Cleared": "true",
+    "TransactionDateTime": "2012-07-22T05:09:04.383Z",
+    "AccountId": "668ba406-b74a-b677-0207-d3f6e192a821"
+  },
+  {
+    "Amount": 604,
+    "TransactionId": "8e89be63-8c21-35d6-6059-5765703bf611",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-03-09T01:25:46.783Z",
+    "AccountId": "7e5ffed1-c441-dbb4-86b6-cd21310ab9aa"
+  },
+  {
+    "Amount": 755,
+    "TransactionId": "4c91b1d9-9223-ced3-64df-6b90428e188d",
+    "Cleared": "true",
+    "TransactionDateTime": "2010-12-23T14:43:22.016Z",
+    "AccountId": "ca8edb5d-dfb7-69ad-4c12-6ef476addfde"
+  },
+  {
+    "Amount": 799,
+    "TransactionId": "d23ad2dc-1113-36c6-bb6c-c1573fa3337e",
+    "Cleared": "true",
+    "TransactionDateTime": "2001-09-20T00:25:44.813Z",
+    "AccountId": "64c72bc3-4080-0074-3d16-ae78430b39fa"
+  },
+  {
+    "Amount": 303,
+    "TransactionId": "4db0cad7-1a05-76de-51f2-513561957c47",
+    "Cleared": "true",
+    "TransactionDateTime": "1991-11-18T05:29:20.186Z",
+    "AccountId": "efebc6c9-5c12-9900-d53e-963ad1ba5657"
+  },
+  {
+    "Amount": 103,
+    "TransactionId": "41896df2-cc3f-305b-5a37-72c010bfed7e",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-04-24T09:46:34.567Z",
+    "AccountId": "1984b584-4d72-90ea-fbed-1b36aa728c77"
+  },
+  {
+    "Amount": 231,
+    "TransactionId": "f3be7b0f-cba4-ff54-c4ae-2316697d6afa",
+    "Cleared": "true",
+    "TransactionDateTime": "2017-12-07T19:56:13.742Z",
+    "AccountId": "f711e717-8671-3ba0-1162-e628185fcb35"
+  },
+  {
+    "Amount": 243,
+    "TransactionId": "17cd7be7-1b01-9121-c460-df5ee47a0eb9",
+    "Cleared": "true",
+    "TransactionDateTime": "2015-06-20T18:09:33.642Z",
+    "AccountId": "727ac1c3-da02-473d-6f0f-55e6a3e6b9d0"
+  },
+  {
+    "Amount": 1,
+    "TransactionId": "a1fda838-a09f-0194-e807-fbfa24106849",
+    "Cleared": "true",
+    "TransactionDateTime": "2001-01-01T16:52:03.156Z",
+    "AccountId": "3fc52f92-bc24-8540-2e01-6dac079c9db2"
+  },
+  {
+    "Amount": 30,
+    "TransactionId": "e8551918-3def-2b8d-1be4-8a6df1d11fe9",
+    "Cleared": "true",
+    "TransactionDateTime": "1980-04-16T03:15:03.986Z",
+    "AccountId": "67e286af-0546-cfa3-cb11-437d63f7a08e"
+  },
+  {
+    "Amount": 752,
+    "TransactionId": "644c2f91-29af-391f-4831-819947410cb3",
+    "Cleared": "true",
+    "TransactionDateTime": "2000-11-15T02:09:48.325Z",
+    "AccountId": "17ad74f9-0b74-225c-84e7-d37762774597"
+  },
+  {
+    "Amount": 571,
+    "TransactionId": "6f398d5d-9194-e418-8cac-ff3e18d32cc4",
+    "Cleared": "true",
+    "TransactionDateTime": "2001-01-04T21:19:04.422Z",
+    "AccountId": "04a84f7c-e440-1aa2-4040-401179013682"
+  },
+  {
+    "Amount": 329,
+    "TransactionId": "1c8e1d10-22af-8c19-0eb8-22ae603d8caa",
+    "Cleared": "true",
+    "TransactionDateTime": "2000-03-22T00:48:59.798Z",
+    "AccountId": "5570fc6d-411c-8821-efc5-d12d8f759cda"
+  },
+  {
+    "Amount": 994,
+    "TransactionId": "21154462-db7a-59ac-2464-03038eff5ebc",
+    "Cleared": "true",
+    "TransactionDateTime": "2013-12-05T09:26:50.163Z",
+    "AccountId": "0461a112-3f66-f504-2175-c8a67adac898"
+  },
+  {
+    "Amount": 569,
+    "TransactionId": "968ee066-a8c1-2fbd-561f-34b50cb1e82d",
+    "Cleared": "true",
+    "TransactionDateTime": "1993-05-22T16:54:13.813Z",
+    "AccountId": "cf902cff-3769-e3b6-6b04-ba14eb996af1"
+  },
+  {
+    "Amount": 244,
+    "TransactionId": "44d06eab-7a42-da58-4343-df345320db81",
+    "Cleared": "true",
+    "TransactionDateTime": "2008-02-02T01:22:17.010Z",
+    "AccountId": "7d7d9ea8-2751-f53a-705c-9b01faea929d"
+  },
+  {
+    "Amount": 34,
+    "TransactionId": "4310ee63-231f-5260-7a15-3ec11f95c517",
+    "Cleared": "true",
+    "TransactionDateTime": "2000-11-05T08:26:24.342Z",
+    "AccountId": "19092ac0-5556-c393-a089-626634165d59"
+  },
+  {
+    "Amount": 222,
+    "TransactionId": "2943108f-a321-bae5-8f46-2867cf4feda2",
+    "Cleared": "true",
+    "TransactionDateTime": "2019-12-15T21:50:37.201Z",
+    "AccountId": "c5e89dd9-b5e1-9d76-4e1e-bb95c7905069"
+  },
+  {
+    "Amount": 140,
+    "TransactionId": "bc827c3e-2e73-522a-c284-9013a876f351",
+    "Cleared": "true",
+    "TransactionDateTime": "1983-12-25T18:28:39.302Z",
+    "AccountId": "e2b495de-6874-2d75-46f2-77ed20bb9528"
+  },
+  {
+    "Amount": 794,
+    "TransactionId": "7eb5a531-6ca7-9ad5-cfea-c540c32a09f8",
+    "Cleared": "true",
+    "TransactionDateTime": "2008-02-13T09:10:01.653Z",
+    "AccountId": "0df919cd-b2fa-4aba-db9e-cf9991f26101"
+  },
+  {
+    "Amount": 895,
+    "TransactionId": "c2c0649a-eb7c-746c-c2d1-a00fd7f6eead",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-11-10T14:30:29.096Z",
+    "AccountId": "adf3ea64-b677-00c8-04f4-d27f2e7afe99"
+  },
+  {
+    "Amount": 219,
+    "TransactionId": "5b19e072-35d6-4859-efae-8afe94cd3581",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-09-10T03:18:54.711Z",
+    "AccountId": "c9ecdf1d-440c-c022-1166-9dc340f497a7"
+  },
+  {
+    "Amount": 883,
+    "TransactionId": "94145ea7-3f2b-e7d7-ff0a-bcb2f78b896d",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-09-18T09:41:00.856Z",
+    "AccountId": "a601cbe7-301f-2b95-7d95-5a1232169b01"
+  },
+  {
+    "Amount": 452,
+    "TransactionId": "25040e18-13b4-2a51-e034-36623277ab8e",
+    "Cleared": "true",
+    "TransactionDateTime": "2007-09-30T13:51:10.698Z",
+    "AccountId": "b9fb66a2-e377-2321-a71d-77cc9423099d"
+  },
+  {
+    "Amount": 784,
+    "TransactionId": "38051afb-868d-a9e4-d6e8-1a2b41af247f",
+    "Cleared": "true",
+    "TransactionDateTime": "2016-09-11T13:44:52.633Z",
+    "AccountId": "3d2831f6-1f16-1ab5-db4f-01710a78bf1b"
+  },
+  {
+    "Amount": 386,
+    "TransactionId": "15896340-746c-9c9c-5b64-7e9946a84a83",
+    "Cleared": "true",
+    "TransactionDateTime": "2003-07-03T11:40:11.276Z",
+    "AccountId": "21fd2d59-e497-3635-025d-dd6cb53e877b"
+  },
+  {
+    "Amount": 530,
+    "TransactionId": "58d94131-191c-6d11-70e3-d22f3eec1b70",
+    "Cleared": "true",
+    "TransactionDateTime": "1985-12-16T09:14:04.836Z",
+    "AccountId": "0385d85d-eaf8-9ab1-c56f-f2345677e15b"
+  },
+  {
+    "Amount": 61,
+    "TransactionId": "bfae3dea-2a22-1016-ec20-525040a181bf",
+    "Cleared": "true",
+    "TransactionDateTime": "1986-07-10T08:21:11.985Z",
+    "AccountId": "28d92ce9-5929-dad4-2fdf-bdbe9fb909cc"
+  },
+  {
+    "Amount": 171,
+    "TransactionId": "1e94e393-aa94-426f-e26b-52d67954e5e8",
+    "Cleared": "true",
+    "TransactionDateTime": "1990-02-15T04:20:22.621Z",
+    "AccountId": "64d4bcbb-7ba5-2589-c7c9-295afd79c753"
+  },
+  {
+    "Amount": 128,
+    "TransactionId": "527267b3-16cb-119c-c38c-653310bfd5ae",
+    "Cleared": "true",
+    "TransactionDateTime": "2017-11-07T22:57:28.524Z",
+    "AccountId": "da09efad-ee86-29b5-45e8-f01d2116eb6f"
+  },
+  {
+    "Amount": 42,
+    "TransactionId": "9a080b41-e6fb-31ea-7953-7951a2dbe5f0",
+    "Cleared": "true",
+    "TransactionDateTime": "1986-09-17T06:02:11.834Z",
+    "AccountId": "adf87453-949c-96f1-a679-712f00aff69b"
+  },
+  {
+    "Amount": 854,
+    "TransactionId": "04317b1b-ebfb-59d3-fa78-1c43241193f0",
+    "Cleared": "true",
+    "TransactionDateTime": "2017-06-11T13:57:43.806Z",
+    "AccountId": "81fff20c-832f-ccd8-627c-ff5ed8381797"
+  },
+  {
+    "Amount": 308,
+    "TransactionId": "5f1cfc19-a7e3-df47-2086-49e54cda026e",
+    "Cleared": "true",
+    "TransactionDateTime": "1987-02-10T16:26:39.537Z",
+    "AccountId": "3c7d9f22-ab3a-4956-e3c8-bee7556b1027"
+  },
+  {
+    "Amount": 550,
+    "TransactionId": "7db12207-7034-f42c-e755-45a5204309e1",
+    "Cleared": "true",
+    "TransactionDateTime": "1990-04-14T16:16:47.441Z",
+    "AccountId": "540625de-5703-cf36-56f9-dac68915f90a"
+  },
+  {
+    "Amount": 876,
+    "TransactionId": "214a00a4-0a31-11d9-0cee-25363ad51893",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-10-29T15:29:38.108Z",
+    "AccountId": "bc34d556-c71c-8231-8d0d-ac89b1e58abd"
+  },
+  {
+    "Amount": 252,
+    "TransactionId": "ebbf08d6-23d5-4728-3e8c-e40814dd42bc",
+    "Cleared": "true",
+    "TransactionDateTime": "1992-06-18T01:31:48.097Z",
+    "AccountId": "c4cb214b-092d-4a83-6f16-7358a961ee85"
+  },
+  {
+    "Amount": 883,
+    "TransactionId": "0a0c0ada-fb87-5210-70d0-afc5ffeb2f6d",
+    "Cleared": "true",
+    "TransactionDateTime": "1992-12-04T14:16:29.750Z",
+    "AccountId": "038a87d3-c1a1-a9cd-c5a0-5eec9bbbbd86"
+  },
+  {
+    "Amount": 343,
+    "TransactionId": "3fcb9383-1a0b-0fe9-3804-5f7db8cece48",
+    "Cleared": "true",
+    "TransactionDateTime": "2001-04-29T18:02:13.891Z",
+    "AccountId": "c8577380-b9b8-9cb1-b6e3-ec5bfeca947e"
+  },
+  {
+    "Amount": 792,
+    "TransactionId": "61ef5223-4851-845a-412f-6ec0c2c5b7c6",
+    "Cleared": "true",
+    "TransactionDateTime": "1985-02-15T17:21:49.497Z",
+    "AccountId": "aedbc362-cdee-bddd-a6ba-7a4a27371684"
+  },
+  {
+    "Amount": 818,
+    "TransactionId": "c40a1136-46ff-487e-8c27-834fb0b7162e",
+    "Cleared": "true",
+    "TransactionDateTime": "2001-08-22T03:42:31.440Z",
+    "AccountId": "9a904732-7392-4ee2-a425-7d8761152fba"
+  },
+  {
+    "Amount": 786,
+    "TransactionId": "063ebeab-0410-50d4-84a7-354b4f503182",
+    "Cleared": "true",
+    "TransactionDateTime": "1980-10-02T12:29:39.685Z",
+    "AccountId": "acc1aa30-b095-b9bc-c61e-3e2021a6fff9"
+  },
+  {
+    "Amount": 179,
+    "TransactionId": "2c27f115-94e8-169c-075a-db73a1c95b3e",
+    "Cleared": "true",
+    "TransactionDateTime": "2001-10-21T04:15:24.344Z",
+    "AccountId": "f97cc033-de09-05e1-4dfb-7f7995f713a8"
+  },
+  {
+    "Amount": 222,
+    "TransactionId": "43f1be05-98da-98ca-77ec-4099f46451a3",
+    "Cleared": "true",
+    "TransactionDateTime": "2005-08-20T07:29:01.255Z",
+    "AccountId": "f621ffb6-b557-8062-b24c-5707f1ded9ab"
+  },
+  {
+    "Amount": 559,
+    "TransactionId": "1d7ff93f-314a-93ed-6b0f-ef0cdb46a11e",
+    "Cleared": "true",
+    "TransactionDateTime": "1986-02-04T20:23:15.854Z",
+    "AccountId": "236bf94d-0765-722a-ffed-3c852abc23a4"
+  },
+  {
+    "Amount": 794,
+    "TransactionId": "1d02a119-2676-7e24-9bf5-3c43deaa4c53",
+    "Cleared": "true",
+    "TransactionDateTime": "2000-12-03T09:17:31.615Z",
+    "AccountId": "a650457e-7728-7bdc-1c9e-e9942c89426f"
+  },
+  {
+    "Amount": 5,
+    "TransactionId": "dd15e3a6-7e7a-2ecf-25c4-7affd5825cf7",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-11-03T01:37:15.191Z",
+    "AccountId": "316c3f83-57e1-fe74-a76f-335c3e41ce1c"
+  },
+  {
+    "Amount": 760,
+    "TransactionId": "34088519-fa4b-0415-e5b6-af529f807b14",
+    "Cleared": "true",
+    "TransactionDateTime": "2003-04-18T17:49:24.642Z",
+    "AccountId": "5d00ffe0-fe23-947c-1260-7144acfbb5d4"
+  },
+  {
+    "Amount": 597,
+    "TransactionId": "6fcf9f6c-f0f0-a734-a99a-d57a08426ae1",
+    "Cleared": "true",
+    "TransactionDateTime": "2001-12-12T00:26:14.851Z",
+    "AccountId": "2e112e42-c70d-d251-d0ed-1fab3de26f8b"
+  },
+  {
+    "Amount": 604,
+    "TransactionId": "831631e2-ce33-7cec-a05a-2ed333a8c28e",
+    "Cleared": "true",
+    "TransactionDateTime": "1993-05-02T18:49:19.943Z",
+    "AccountId": "76395cd7-08cb-112a-9678-27890ddc27db"
+  },
+  {
+    "Amount": 577,
+    "TransactionId": "22f93d75-822a-6e5c-5e98-903844d90b3f",
+    "Cleared": "true",
+    "TransactionDateTime": "2009-08-13T21:20:58.624Z",
+    "AccountId": "60f8998e-adf2-6786-84d0-7a517729bac6"
+  },
+  {
+    "Amount": 108,
+    "TransactionId": "4739d3af-fbc4-515a-bd2f-a011b4527a35",
+    "Cleared": "true",
+    "TransactionDateTime": "2009-06-29T10:53:15.544Z",
+    "AccountId": "9946f587-2193-9c8d-b048-b4d760a87a36"
+  },
+  {
+    "Amount": 184,
+    "TransactionId": "1e1e43ce-79fb-666b-9acc-43beb118dadb",
+    "Cleared": "true",
+    "TransactionDateTime": "1991-11-27T22:06:53.023Z",
+    "AccountId": "d32047ff-1d36-908f-9caa-41b105c74693"
+  },
+  {
+    "Amount": 559,
+    "TransactionId": "a2b94841-2295-09d0-4174-616fb4fcf20d",
+    "Cleared": "true",
+    "TransactionDateTime": "2013-04-04T20:09:55.333Z",
+    "AccountId": "5beeddc9-698e-5f6e-f5cd-5ce0b577a539"
+  },
+  {
+    "Amount": 143,
+    "TransactionId": "c19d78c4-f459-3a84-4ca1-e1e75981e402",
+    "Cleared": "true",
+    "TransactionDateTime": "1990-11-28T18:10:49.765Z",
+    "AccountId": "6cb753b8-3a6e-2d27-a7ea-ce02556046d4"
+  },
+  {
+    "Amount": 863,
+    "TransactionId": "b72cbc0d-96ba-d7c9-e68f-021aa3e75109",
+    "Cleared": "true",
+    "TransactionDateTime": "2003-08-02T14:27:46.461Z",
+    "AccountId": "a672a307-4409-0dd5-e1c6-972b33d4b5ba"
+  },
+  {
+    "Amount": 539,
+    "TransactionId": "e8f7b440-5cfb-9edd-c15a-402f1dc31bee",
+    "Cleared": "true",
+    "TransactionDateTime": "1997-05-25T23:05:33.732Z",
+    "AccountId": "4ef7e01e-455c-72e8-e1e9-529e89838088"
+  },
+  {
+    "Amount": 768,
+    "TransactionId": "5ffc39a7-29cf-6d03-d9dd-d98eca4d294f",
+    "Cleared": "true",
+    "TransactionDateTime": "1983-07-04T20:14:16.851Z",
+    "AccountId": "0a941433-4542-f02b-f99c-7e8945bfc29c"
+  },
+  {
+    "Amount": 428,
+    "TransactionId": "a6cf2207-5638-d3ea-05b7-4ce36344ae57",
+    "Cleared": "true",
+    "TransactionDateTime": "2009-09-08T18:16:21.990Z",
+    "AccountId": "bd2ef19e-a650-21af-994d-71473c7314bb"
+  },
+  {
+    "Amount": 982,
+    "TransactionId": "53efdb92-7126-936a-616a-2e6d588be7a6",
+    "Cleared": "true",
+    "TransactionDateTime": "1988-06-03T22:47:23.174Z",
+    "AccountId": "cc88290f-d29a-ff01-362b-6dce4f6b912f"
+  },
+  {
+    "Amount": 355,
+    "TransactionId": "b695006c-1b9a-432e-5873-b69d32d31e9f",
+    "Cleared": "true",
+    "TransactionDateTime": "2009-01-07T11:01:29.501Z",
+    "AccountId": "6998baa3-9194-22f3-2c5e-a51692396fd7"
+  },
+  {
+    "Amount": 202,
+    "TransactionId": "1d4ab975-c29a-4c9f-7b6a-dbe3d0a9175c",
+    "Cleared": "true",
+    "TransactionDateTime": "1988-01-06T22:33:39.853Z",
+    "AccountId": "22892f45-a0ba-645e-8e08-e47ce25db9b6"
+  },
+  {
+    "Amount": 648,
+    "TransactionId": "92562501-42dd-fd6d-dfb2-2fb841f7656d",
+    "Cleared": "true",
+    "TransactionDateTime": "2015-08-11T08:10:57.366Z",
+    "AccountId": "79e52b58-bdde-0cf1-652e-f3a4bb9ddea5"
+  },
+  {
+    "Amount": 97,
+    "TransactionId": "219179ee-a764-ec67-98bb-323944ab2275",
+    "Cleared": "true",
+    "TransactionDateTime": "1991-11-27T16:04:06.591Z",
+    "AccountId": "ff8af733-9e64-0aa4-f8c6-2d6d323c48b6"
+  },
+  {
+    "Amount": 830,
+    "TransactionId": "884de0eb-028c-9120-d17d-405a0364f45b",
+    "Cleared": "true",
+    "TransactionDateTime": "1987-04-07T06:26:20.250Z",
+    "AccountId": "75dbc1dd-ad66-a925-9054-a75eb42d11e6"
+  },
+  {
+    "Amount": 273,
+    "TransactionId": "446c46ed-a624-4bcb-98fc-0771f8e79179",
+    "Cleared": "true",
+    "TransactionDateTime": "1994-06-08T10:04:26.027Z",
+    "AccountId": "95821902-4f6e-0418-fd0b-ab3e98c955da"
+  },
+  {
+    "Amount": 401,
+    "TransactionId": "4594149f-f0e5-8eaa-1867-d4e1551229c0",
+    "Cleared": "true",
+    "TransactionDateTime": "1983-07-09T23:41:33.597Z",
+    "AccountId": "9bb3f355-79d2-ea14-eda4-bff89464da90"
+  },
+  {
+    "Amount": 362,
+    "TransactionId": "cd6166e7-e181-d6e1-b6a6-c294ffbc1a21",
+    "Cleared": "true",
+    "TransactionDateTime": "1995-10-06T18:21:16.718Z",
+    "AccountId": "ed2792c5-3a90-1132-b232-1dc3b8cc977f"
+  },
+  {
+    "Amount": 172,
+    "TransactionId": "7c2b4e59-9b11-3868-3ea4-2ab1612b32d5",
+    "Cleared": "true",
+    "TransactionDateTime": "2005-03-09T14:33:43.625Z",
+    "AccountId": "02e9a96a-2ac9-ab31-beaa-f43b15b2f590"
+  },
+  {
+    "Amount": 153,
+    "TransactionId": "c0928f75-2783-4fe5-17cd-698b4459a293",
+    "Cleared": "true",
+    "TransactionDateTime": "2004-03-11T00:24:00.742Z",
+    "AccountId": "06e577d5-09d4-efa7-5730-d57deff2b2e5"
+  },
+  {
+    "Amount": 541,
+    "TransactionId": "c2ff596e-878d-134d-9eea-26535d843ce4",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-01-27T19:48:13.595Z",
+    "AccountId": "2e930be2-cb30-e29b-0829-27da24b0a429"
+  },
+  {
+    "Amount": 918,
+    "TransactionId": "5eb0c82e-8890-1c4b-8332-3c784d5adff0",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-12-19T19:51:28.064Z",
+    "AccountId": "95f077d5-db33-8439-4571-52a4265ecca2"
+  },
+  {
+    "Amount": 41,
+    "TransactionId": "a4336f56-14f9-f4bc-1d75-ef955e343bed",
+    "Cleared": "true",
+    "TransactionDateTime": "1995-12-06T01:15:53.548Z",
+    "AccountId": "6d640f90-eb76-41bc-5245-c25857897b2a"
+  },
+  {
+    "Amount": 817,
+    "TransactionId": "3a08100f-7477-c602-27fd-c2a4d7570ce2",
+    "Cleared": "true",
+    "TransactionDateTime": "1989-01-10T13:26:49.748Z",
+    "AccountId": "3f62c4c2-ab96-c403-a0ce-f10906ae8eeb"
+  },
+  {
+    "Amount": 432,
+    "TransactionId": "0efc4e65-ee57-1e18-8e1c-e9117b1d3565",
+    "Cleared": "true",
+    "TransactionDateTime": "2015-10-09T22:45:48.814Z",
+    "AccountId": "f6f2481f-8530-17a4-c51c-aa7d3189c785"
+  },
+  {
+    "Amount": 143,
+    "TransactionId": "3143ad6a-71ad-15b3-8715-76986a85e064",
+    "Cleared": "true",
+    "TransactionDateTime": "2011-03-12T06:59:01.245Z",
+    "AccountId": "bb4b2551-5409-9480-11ab-e8cbe0171c45"
+  },
+  {
+    "Amount": 466,
+    "TransactionId": "d1ac8c8f-d62a-4a92-5986-424d63b63566",
+    "Cleared": "true",
+    "TransactionDateTime": "1999-08-17T17:44:46.013Z",
+    "AccountId": "10f1ce62-d8d6-036c-4185-667cf12e119e"
+  },
+  {
+    "Amount": 126,
+    "TransactionId": "667bc718-478c-c26f-4dd7-5f0ac6cc5d0b",
+    "Cleared": "true",
+    "TransactionDateTime": "1998-08-25T19:33:25.234Z",
+    "AccountId": "a7787b31-2374-66a4-e5ba-91c9c606133a"
+  },
+  {
+    "Amount": 779,
+    "TransactionId": "dc26b500-b386-43f6-bd46-fd010186c032",
+    "Cleared": "true",
+    "TransactionDateTime": "1994-09-18T02:38:13.140Z",
+    "AccountId": "849942e6-1869-e597-4683-dd45b25d74df"
+  },
+  {
+    "Amount": 778,
+    "TransactionId": "cb2d0f8c-4978-8f70-a4f5-a1214cbb5565",
+    "Cleared": "true",
+    "TransactionDateTime": "2001-01-02T14:55:19.224Z",
+    "AccountId": "6d6ed8bf-0b3d-ea4a-0bc3-f91b99b7151e"
+  },
+  {
+    "Amount": 784,
+    "TransactionId": "9fdf2bdd-0b9b-59ae-2d8c-13ccc2868543",
+    "Cleared": "true",
+    "TransactionDateTime": "2012-07-27T13:15:23.090Z",
+    "AccountId": "b7739872-869c-c445-e8df-c076f8d92785"
+  },
+  {
+    "Amount": 785,
+    "TransactionId": "09031dca-6204-5df3-36e0-42955383939c",
+    "Cleared": "true",
+    "TransactionDateTime": "1981-08-23T17:12:51.245Z",
+    "AccountId": "00e08e02-3505-8f4b-3e1f-1932a2227b09"
+  },
+  {
+    "Amount": 698,
+    "TransactionId": "0fac0e49-8581-67dd-807c-6cadb155fac3",
+    "Cleared": "true",
+    "TransactionDateTime": "2003-03-04T19:27:29.553Z",
+    "AccountId": "f1f54253-2434-bdc6-270e-e693a25edf3a"
+  },
+  {
+    "Amount": 648,
+    "TransactionId": "169b831a-02e8-e84f-34eb-d6ffe85efe79",
+    "Cleared": "true",
+    "TransactionDateTime": "2009-05-23T16:37:24.525Z",
+    "AccountId": "a39edad3-cb6f-9328-5b8c-9547ffcf80c7"
+  },
+  {
+    "Amount": 549,
+    "TransactionId": "5b1e2e45-a7b5-719d-e3cc-8f735b7dcb7f",
+    "Cleared": "true",
+    "TransactionDateTime": "2017-01-20T04:13:50.134Z",
+    "AccountId": "61443e17-d81f-f777-40df-d8295102670d"
+  },
+  {
+    "Amount": 807,
+    "TransactionId": "fac044c2-48c4-982a-12c2-a31cc3afee40",
+    "Cleared": "true",
+    "TransactionDateTime": "1993-10-17T01:19:26.783Z",
+    "AccountId": "74358632-a0b2-afa8-b4c0-ad83de856355"
+  },
+  {
+    "Amount": 798,
+    "TransactionId": "1077bde9-5c93-d68c-8f90-a94c69cbf2db",
+    "Cleared": "true",
+    "TransactionDateTime": "1995-11-26T01:57:22.442Z",
+    "AccountId": "d1d2d252-080e-c703-c84e-caa68380ada7"
+  },
+  {
+    "Amount": 403,
+    "TransactionId": "6cc3d676-e016-9328-531b-34528c3225bc",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-06-14T14:10:05.445Z",
+    "AccountId": "9f2f829b-1fbc-e903-2252-60638ee1a302"
+  },
+  {
+    "Amount": 103,
+    "TransactionId": "ac33c4db-b620-8800-8e2d-9c805dcc5b61",
+    "Cleared": "true",
+    "TransactionDateTime": "1990-07-03T22:57:52.323Z",
+    "AccountId": "d332368d-e292-c322-50b4-a06ed1ff6201"
+  },
+  {
+    "Amount": 382,
+    "TransactionId": "5d34331c-27ca-1bbc-4301-36d3daae4f38",
+    "Cleared": "true",
+    "TransactionDateTime": "2014-09-24T12:47:26.796Z",
+    "AccountId": "7e776b8c-5b3e-c1c6-0055-9f7c1f1bed09"
+  },
+  {
+    "Amount": 778,
+    "TransactionId": "59fb699b-5e85-6729-0fc9-e5848e7408a5",
+    "Cleared": "true",
+    "TransactionDateTime": "1998-10-31T02:50:33.836Z",
+    "AccountId": "d8b25307-c9a0-94c3-5cba-cfa51f854538"
+  },
+  {
+    "Amount": 955,
+    "TransactionId": "ba54fe8d-ab2e-b8b4-545b-6a1b3f98c15f",
+    "Cleared": "true",
+    "TransactionDateTime": "2000-08-19T08:51:42.586Z",
+    "AccountId": "472e11b9-ceb8-dbb6-8e1b-d4e365a522bf"
+  },
+  {
+    "Amount": 328,
+    "TransactionId": "04b1d45b-1af4-5db4-6534-5c2092f4be5f",
+    "Cleared": "true",
+    "TransactionDateTime": "1993-12-31T10:25:58.737Z",
+    "AccountId": "06376ebf-212c-0439-5ef1-ab95463fb12d"
+  },
+  {
+    "Amount": 536,
+    "TransactionId": "af8854e5-52ec-0f2f-339f-ad86660035f4",
+    "Cleared": "true",
+    "TransactionDateTime": "2007-02-14T05:40:42.924Z",
+    "AccountId": "3e42fc96-d4e8-9b53-437d-1dcaa5a0eae2"
+  },
+  {
+    "Amount": 963,
+    "TransactionId": "098aa7aa-eef3-ba03-2483-da0da8818d55",
+    "Cleared": "true",
+    "TransactionDateTime": "2001-08-21T19:28:57.127Z",
+    "AccountId": "8d0321f1-48bb-5c06-e814-2dfa072677ed"
+  },
+  {
+    "Amount": 342,
+    "TransactionId": "1e6411d8-39b2-67f1-8bf1-bfc562b33be4",
+    "Cleared": "true",
+    "TransactionDateTime": "1993-07-03T19:25:09.012Z",
+    "AccountId": "46c7a83a-8f25-e396-48af-9f598ff6222b"
+  },
+  {
+    "Amount": 2,
+    "TransactionId": "f0bf01ca-e977-6af8-4e8a-bfa66d52d649",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-03-19T22:15:52.479Z",
+    "AccountId": "338231af-dcdc-8bbe-42e6-c80fb9828798"
+  },
+  {
+    "Amount": 545,
+    "TransactionId": "860c95c1-9dad-8f0c-c65d-226388d75df5",
+    "Cleared": "true",
+    "TransactionDateTime": "2012-10-24T07:39:26.883Z",
+    "AccountId": "b175dd14-3c81-91a6-e4ba-5ab94021bf17"
+  },
+  {
+    "Amount": 654,
+    "TransactionId": "b2ee0bc2-7ee9-3dd4-bf85-edbd7c3b4759",
+    "Cleared": "true",
+    "TransactionDateTime": "1985-06-21T02:49:51.042Z",
+    "AccountId": "c3dfd360-1d71-287e-3353-52bb22886292"
+  },
+  {
+    "Amount": 913,
+    "TransactionId": "90263f6a-e014-879d-ef14-a02a79990cf7",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-05-27T19:38:11.116Z",
+    "AccountId": "52b96d15-b660-4111-299a-2f6edf6677c7"
+  },
+  {
+    "Amount": 776,
+    "TransactionId": "0b9fb29b-d24b-f4ce-38d4-8cd9dac602fd",
+    "Cleared": "true",
+    "TransactionDateTime": "2000-10-16T08:25:57.842Z",
+    "AccountId": "e2f9f749-4d83-243b-ed3c-6e5f0bfc5a03"
+  },
+  {
+    "Amount": 937,
+    "TransactionId": "eec84e63-8806-f938-df3d-477118fad4d4",
+    "Cleared": "true",
+    "TransactionDateTime": "1990-12-26T09:40:21.797Z",
+    "AccountId": "da4aee1c-15b4-4cee-6d55-8b811f9d5d37"
+  },
+  {
+    "Amount": 336,
+    "TransactionId": "938dbdc2-6fc5-b355-f0cf-2868d1cac283",
+    "Cleared": "true",
+    "TransactionDateTime": "2004-04-05T22:44:37.512Z",
+    "AccountId": "98a69165-c60e-e4d9-935f-5679dff75135"
+  },
+  {
+    "Amount": 840,
+    "TransactionId": "b9c3d6f0-daa9-44eb-cbea-a1855760d2b0",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-10-13T06:32:19.273Z",
+    "AccountId": "e1c9b52f-01a9-0d7d-1843-a9d11b4454c5"
+  },
+  {
+    "Amount": 195,
+    "TransactionId": "b8e43ae5-5dd8-118d-6a0b-4c4cefc8682a",
+    "Cleared": "true",
+    "TransactionDateTime": "2002-04-05T11:19:42.017Z",
+    "AccountId": "9cbe0e73-6e09-3467-8f76-9d87cda5f02f"
+  },
+  {
+    "Amount": 625,
+    "TransactionId": "47f6b98d-68df-3f19-007f-df0d0994bd68",
+    "Cleared": "true",
+    "TransactionDateTime": "1992-05-10T10:40:39.244Z",
+    "AccountId": "51d0b33e-5da4-16f8-1aaa-a412d6199902"
+  },
+  {
+    "Amount": 335,
+    "TransactionId": "dc8642a3-f44b-12b3-817c-9f6d92d90fbb",
+    "Cleared": "true",
+    "TransactionDateTime": "2015-12-18T22:24:46.155Z",
+    "AccountId": "519042bc-898a-6311-3389-6414db530132"
+  },
+  {
+    "Amount": 429,
+    "TransactionId": "d57590af-96af-f214-4e42-10f3cbf84733",
+    "Cleared": "true",
+    "TransactionDateTime": "1998-04-22T02:42:30.290Z",
+    "AccountId": "b59e689f-0e59-e4c4-907d-56735e815139"
+  },
+  {
+    "Amount": 515,
+    "TransactionId": "76e1a4b6-5dea-d1ed-8617-a12a73e82eb3",
+    "Cleared": "true",
+    "TransactionDateTime": "2017-07-28T09:51:53.083Z",
+    "AccountId": "1a41bfae-7f3b-ba10-facb-61c6d2ec85b0"
+  },
+  {
+    "Amount": 971,
+    "TransactionId": "9c1948b4-f762-2f0b-28b7-d82a49470ddc",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-12-17T06:14:42.524Z",
+    "AccountId": "614ecc54-7b68-205b-7520-c71568d5dc7d"
+  },
+  {
+    "Amount": 718,
+    "TransactionId": "6374eacb-19c7-6b4b-8ed3-4ffb7bee4e04",
+    "Cleared": "true",
+    "TransactionDateTime": "1992-09-21T22:23:10.456Z",
+    "AccountId": "e5b33198-b364-2d00-e05d-5f24790dd513"
+  },
+  {
+    "Amount": 866,
+    "TransactionId": "0c166e09-d7ae-2cc7-6630-1558d0416352",
+    "Cleared": "true",
+    "TransactionDateTime": "1997-05-24T01:26:10.044Z",
+    "AccountId": "0890c670-14b0-80a7-5f35-cbfe4186b066"
+  },
+  {
+    "Amount": 978,
+    "TransactionId": "32915d7b-4364-d6cb-1e24-77243937c7a7",
+    "Cleared": "true",
+    "TransactionDateTime": "2020-01-18T09:56:41.288Z",
+    "AccountId": "570a6571-a661-9c8d-6581-2a754252f955"
+  },
+  {
+    "Amount": 747,
+    "TransactionId": "b67389e0-9217-156c-cc13-f79c636d9ebe",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-01-02T20:44:11.776Z",
+    "AccountId": "55033edd-2eba-a63b-ed81-3e0728a82c1e"
+  },
+  {
+    "Amount": 692,
+    "TransactionId": "b41f5791-71c3-b11b-9f45-6db53edb93f6",
+    "Cleared": "true",
+    "TransactionDateTime": "2018-11-05T13:14:03.942Z",
+    "AccountId": "f48112d4-c696-0e6e-40fd-fb6b4b29c672"
+  },
+  {
+    "Amount": 483,
+    "TransactionId": "925bd0fc-87f7-f37a-0910-b1c43c373b91",
+    "Cleared": "true",
+    "TransactionDateTime": "2008-01-27T18:17:18.180Z",
+    "AccountId": "49a2b1de-2163-0d22-ae47-0ae7a028dbce"
+  },
+  {
+    "Amount": 333,
+    "TransactionId": "78004532-28a2-f108-bdf2-3d3a760c9449",
+    "Cleared": "true",
+    "TransactionDateTime": "2003-09-10T12:34:35.439Z",
+    "AccountId": "2dd8ec1a-149d-06b7-7235-6253f32bbdd9"
+  },
+  {
+    "Amount": 227,
+    "TransactionId": "3ade18cd-4465-fca1-7f6e-d7d750fe296d",
+    "Cleared": "true",
+    "TransactionDateTime": "2007-08-21T04:57:49.705Z",
+    "AccountId": "e913807c-c371-5d62-067b-a0229b3d3bf4"
+  },
+  {
+    "Amount": 717,
+    "TransactionId": "9a065908-55b4-a8b2-24af-619cfb868902",
+    "Cleared": "true",
+    "TransactionDateTime": "2016-01-12T16:43:54.792Z",
+    "AccountId": "44913ac9-309c-9d41-4b2c-a292a3b48e4f"
+  },
+  {
+    "Amount": 471,
+    "TransactionId": "332cd7f8-9dd9-7b54-200a-018c99336f93",
+    "Cleared": "true",
+    "TransactionDateTime": "2015-01-05T03:23:44.315Z",
+    "AccountId": "4e052fac-c170-f976-1a3c-d31a52019950"
+  },
+  {
+    "Amount": 964,
+    "TransactionId": "d73c37d4-aebc-db61-faa2-f8e7815e1da9",
+    "Cleared": "true",
+    "TransactionDateTime": "1988-01-19T18:58:17.726Z",
+    "AccountId": "e2c65b99-ea3f-24b4-26e1-fce797acbd12"
+  },
+  {
+    "Amount": 436,
+    "TransactionId": "3d9333c6-c87c-6b3c-121a-3f9d5d0612c2",
+    "Cleared": "true",
+    "TransactionDateTime": "1997-01-13T21:38:59.226Z",
+    "AccountId": "c844973e-b40a-7c95-503b-071bf99aa203"
+  },
+  {
+    "Amount": 275,
+    "TransactionId": "b48ec6d8-4028-164e-7415-9960049e4a20",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-06-14T13:37:50.187Z",
+    "AccountId": "da6280be-0616-08e3-42eb-d97243377148"
+  },
+  {
+    "Amount": 73,
+    "TransactionId": "5d418153-b5c7-0297-2f5a-e75c51740fc7",
+    "Cleared": "true",
+    "TransactionDateTime": "1985-04-28T01:07:08.586Z",
+    "AccountId": "7a3ceb63-3b4b-09b9-d31d-4ef209ef0800"
+  },
+  {
+    "Amount": 254,
+    "TransactionId": "96782ef1-bb12-deca-18db-e50d9139a12b",
+    "Cleared": "true",
+    "TransactionDateTime": "2006-06-21T03:05:14.951Z",
+    "AccountId": "b3174242-6bcb-535e-a929-ec324f0c7c4b"
+  },
+  {
+    "Amount": 140,
+    "TransactionId": "1945cd53-2db6-de02-c136-d0c27405a29c",
+    "Cleared": "true",
+    "TransactionDateTime": "2011-09-26T05:30:16.856Z",
+    "AccountId": "58726e11-50e9-be11-2993-0a1c2c67581f"
+  },
+  {
+    "Amount": 372,
+    "TransactionId": "b0a5b23a-75fd-96f5-82b4-71f7dc5d9103",
+    "Cleared": "true",
+    "TransactionDateTime": "2013-04-24T21:45:26.498Z",
+    "AccountId": "3c777b91-c335-1b76-db17-221da9a76cff"
+  },
+  {
+    "Amount": 214,
+    "TransactionId": "643ed11c-7797-00de-5e3f-ba0cb60b94b9",
+    "Cleared": "true",
+    "TransactionDateTime": "1991-11-01T21:58:02.576Z",
+    "AccountId": "fd1aa373-6008-ed62-b555-a9f7bbe10a92"
+  },
+  {
+    "Amount": 176,
+    "TransactionId": "8157877d-cb57-0ef0-4c7f-2e4ec4c08605",
+    "Cleared": "true",
+    "TransactionDateTime": "2019-05-03T09:59:21.329Z",
+    "AccountId": "3a6a081d-a7c8-cc49-2f76-4617b7462023"
+  },
+  {
+    "Amount": 281,
+    "TransactionId": "d9419037-a49c-3d6b-677e-76a1e0b92d97",
+    "Cleared": "true",
+    "TransactionDateTime": "1986-03-21T20:02:49.553Z",
+    "AccountId": "0253d9e3-e4c7-3bbf-0eff-d34283d9eabd"
+  },
+  {
+    "Amount": 844,
+    "TransactionId": "da65f418-4045-84de-3fa8-0bbd4a18f4aa",
+    "Cleared": "true",
+    "TransactionDateTime": "2015-03-17T01:54:45.207Z",
+    "AccountId": "55804600-28a6-d741-df7a-4aeb94f12a12"
+  },
+  {
+    "Amount": 296,
+    "TransactionId": "34509c7e-9275-8693-07ab-c039c22a0b9b",
+    "Cleared": "true",
+    "TransactionDateTime": "2009-07-17T01:28:39.418Z",
+    "AccountId": "66874301-00f9-3675-7607-1a935f43dde1"
+  },
+  {
+    "Amount": 376,
+    "TransactionId": "ddb8d41a-668a-882c-86db-fa8fc70b7448",
+    "Cleared": "true",
+    "TransactionDateTime": "2008-07-23T16:23:52.352Z",
+    "AccountId": "9a73779e-917f-1117-ac1b-2090879a0efe"
+  },
+  {
+    "Amount": 597,
+    "TransactionId": "355aaf18-181f-5a97-fc47-f006e1b8b534",
+    "Cleared": "true",
+    "TransactionDateTime": "2014-12-31T09:30:50.108Z",
+    "AccountId": "26a5c8ed-0572-f528-69da-b64fdbf4a3d2"
+  },
+  {
+    "Amount": 359,
+    "TransactionId": "60fe0c25-d665-ab5c-d5cd-cee3ba3ab563",
+    "Cleared": "true",
+    "TransactionDateTime": "2015-09-19T10:24:52.795Z",
+    "AccountId": "38614c68-6182-d6fb-ccf4-3afc3754319a"
+  },
+  {
+    "Amount": 19,
+    "TransactionId": "91dd48ad-b3cc-3a11-6fbe-d013617c202e",
+    "Cleared": "true",
+    "TransactionDateTime": "1986-10-05T00:01:30.047Z",
+    "AccountId": "0d973948-a113-f8f4-0444-0ea94f4131c8"
+  },
+  {
+    "Amount": 272,
+    "TransactionId": "76aceb67-7e1f-a64f-cd86-29b7a70d6fb0",
+    "Cleared": "true",
+    "TransactionDateTime": "2010-11-14T05:42:36.098Z",
+    "AccountId": "665a0d8e-9906-1705-68e1-f80f47c6a1fc"
+  },
+  {
+    "Amount": 82,
+    "TransactionId": "77e46600-e870-ab14-b5cf-1579bf1e9560",
+    "Cleared": "true",
+    "TransactionDateTime": "1988-01-31T04:04:33.075Z",
+    "AccountId": "03449fc9-c73c-9ff8-65d5-30fe1a4ebf1f"
+  },
+  {
+    "Amount": 541,
+    "TransactionId": "6cc7fd70-f97b-d598-1b9f-a46e9e4292e9",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-04-01T19:11:15.202Z",
+    "AccountId": "9585050c-719c-21a3-18c2-0dafc585e10b"
+  },
+  {
+    "Amount": 846,
+    "TransactionId": "6f60eef5-a79d-5ebb-e897-11e103a6077a",
+    "Cleared": "true",
+    "TransactionDateTime": "1986-01-07T19:47:29.489Z",
+    "AccountId": "ad06eddc-95ef-0f85-19dd-da19f8741c7b"
+  },
+  {
+    "Amount": 455,
+    "TransactionId": "6731e0f5-9d25-b05e-3133-beadd19f7157",
+    "Cleared": "true",
+    "TransactionDateTime": "2008-08-09T07:43:11.635Z",
+    "AccountId": "04db8949-e49c-bd82-294b-62738d3fe0f2"
+  },
+  {
+    "Amount": 284,
+    "TransactionId": "6b07e8a8-3783-87ba-3a1d-774e56da915f",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-08-20T06:53:42.097Z",
+    "AccountId": "d842dbe3-46ec-a49c-2057-3b2cb4e8f57f"
+  },
+  {
+    "Amount": 613,
+    "TransactionId": "2c13f1d1-d75a-34ed-7294-6eb25e81be0f",
+    "Cleared": "true",
+    "TransactionDateTime": "1985-10-31T18:53:48.836Z",
+    "AccountId": "6f2e7761-c8c7-0441-5bb3-dd8a136b35bf"
+  },
+  {
+    "Amount": 659,
+    "TransactionId": "011cf74d-50c8-fee0-bf15-e29efa606814",
+    "Cleared": "true",
+    "TransactionDateTime": "1987-05-03T22:26:02.679Z",
+    "AccountId": "15d71b79-539c-356a-01b5-7a867f657b35"
+  },
+  {
+    "Amount": 331,
+    "TransactionId": "8e660f93-2ade-b856-a707-aad287ea657a",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-08-04T16:55:55.257Z",
+    "AccountId": "401dc8d3-e230-e8d0-987d-767d4f219c94"
+  },
+  {
+    "Amount": 776,
+    "TransactionId": "b62854e1-bbe4-5dd1-e6e6-199b92afc212",
+    "Cleared": "true",
+    "TransactionDateTime": "2005-10-22T09:37:35.302Z",
+    "AccountId": "d2db1552-f888-f7b3-09ad-d626d54812ed"
+  },
+  {
+    "Amount": 169,
+    "TransactionId": "e616e2fc-fddc-bbd4-03ff-a285ffe6563a",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-03-16T12:06:20.200Z",
+    "AccountId": "92e13475-89d5-7050-8be0-ad1198fc4ea1"
+  },
+  {
+    "Amount": 588,
+    "TransactionId": "e4888242-a60b-ea71-58a3-ba51c7c16575",
+    "Cleared": "true",
+    "TransactionDateTime": "2005-06-06T23:04:43.768Z",
+    "AccountId": "509e62cc-a344-617e-8e10-d1b760478e54"
+  },
+  {
+    "Amount": 398,
+    "TransactionId": "ebae139d-28c7-ca80-d56f-4c2139e776e7",
+    "Cleared": "true",
+    "TransactionDateTime": "1988-02-18T00:29:21.631Z",
+    "AccountId": "b7302eb5-6775-59e4-ad6a-a49c8cf12501"
+  },
+  {
+    "Amount": 57,
+    "TransactionId": "723c08dd-82be-af18-aab0-91961aa9fe0a",
+    "Cleared": "true",
+    "TransactionDateTime": "2001-09-04T15:06:32.670Z",
+    "AccountId": "d35816d9-5b48-1b3c-01d6-29f6337539dd"
+  },
+  {
+    "Amount": 391,
+    "TransactionId": "5f2d1195-2d51-3327-9796-e7ed492c987a",
+    "Cleared": "true",
+    "TransactionDateTime": "2018-06-26T05:35:23.318Z",
+    "AccountId": "82338962-51b2-bb38-a43e-fd05d01af485"
+  },
+  {
+    "Amount": 25,
+    "TransactionId": "e332a921-fa53-b66e-4c34-d1bab2231834",
+    "Cleared": "true",
+    "TransactionDateTime": "1986-08-28T20:22:00.941Z",
+    "AccountId": "6cf44369-399b-1219-a9d1-a0c923cebbcf"
+  },
+  {
+    "Amount": 884,
+    "TransactionId": "96938c98-a667-7122-86ad-139ad423a111",
+    "Cleared": "true",
+    "TransactionDateTime": "2005-08-16T16:36:23.737Z",
+    "AccountId": "412d72d2-6323-2b02-f748-45b9a55fb8c8"
+  },
+  {
+    "Amount": 318,
+    "TransactionId": "1845a791-2236-dbad-7555-7853420f2591",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-04-21T13:27:16.540Z",
+    "AccountId": "415208de-c158-3ce7-3f7c-943db80bb945"
+  },
+  {
+    "Amount": 147,
+    "TransactionId": "7012c95c-147e-f758-0a55-f23284103e79",
+    "Cleared": "true",
+    "TransactionDateTime": "1999-11-23T12:21:47.108Z",
+    "AccountId": "db66800a-0f9f-cf64-b2ab-e70171953f44"
+  },
+  {
+    "Amount": 752,
+    "TransactionId": "84fd0310-b78a-c039-507f-aa1bfba86994",
+    "Cleared": "true",
+    "TransactionDateTime": "1993-06-13T19:45:36.801Z",
+    "AccountId": "6ef2dd43-c433-be0b-405b-d16fd8736fbe"
+  },
+  {
+    "Amount": 535,
+    "TransactionId": "92b38b5f-e26a-9a83-e769-8bb4e632b357",
+    "Cleared": "true",
+    "TransactionDateTime": "2012-10-06T07:23:52.659Z",
+    "AccountId": "3a4f991e-c332-39ac-2db6-ffcc59b5006e"
+  },
+  {
+    "Amount": 874,
+    "TransactionId": "7f190807-a630-050e-0bad-43dd2ff014b8",
+    "Cleared": "true",
+    "TransactionDateTime": "1981-07-26T19:39:37.491Z",
+    "AccountId": "3db763ae-d27c-67cb-37e3-ed22ffdd0905"
+  },
+  {
+    "Amount": 5,
+    "TransactionId": "38b168ce-62eb-50c8-0974-5b2a5656e0d1",
+    "Cleared": "true",
+    "TransactionDateTime": "2016-03-26T20:17:28.976Z",
+    "AccountId": "54169032-2e19-1d58-d717-e607f936b839"
+  },
+  {
+    "Amount": 992,
+    "TransactionId": "2e3905d3-1640-49dd-bc84-b3dd05d2e5f8",
+    "Cleared": "true",
+    "TransactionDateTime": "2002-04-19T13:12:25.670Z",
+    "AccountId": "b5e5a170-2b58-f569-912c-bbfc42659043"
+  },
+  {
+    "Amount": 639,
+    "TransactionId": "eaa438c7-5941-deb5-d6f9-a4a2f0c775b6",
+    "Cleared": "true",
+    "TransactionDateTime": "1985-07-30T22:08:03.304Z",
+    "AccountId": "444ad230-a396-2818-241f-ead9c9977e20"
+  },
+  {
+    "Amount": 931,
+    "TransactionId": "fe0b0330-c115-68b7-9896-a120902a393f",
+    "Cleared": "true",
+    "TransactionDateTime": "2011-01-19T23:14:01.482Z",
+    "AccountId": "c041177c-bf87-22ec-b893-940274496372"
+  },
+  {
+    "Amount": 809,
+    "TransactionId": "0f9df06a-f156-d57f-84ea-b350065ddf93",
+    "Cleared": "true",
+    "TransactionDateTime": "1990-10-12T20:15:43.798Z",
+    "AccountId": "75609f9e-7174-604f-9cc2-faf3dccff5c8"
+  },
+  {
+    "Amount": 271,
+    "TransactionId": "c95692f1-902f-e382-e5b3-3432e8254798",
+    "Cleared": "true",
+    "TransactionDateTime": "1980-07-30T06:18:13.002Z",
+    "AccountId": "0890730a-c280-d051-8147-88d5d86bfee2"
+  },
+  {
+    "Amount": 902,
+    "TransactionId": "8831446d-86ad-5e5c-2aac-a270117864f6",
+    "Cleared": "true",
+    "TransactionDateTime": "2014-09-24T15:57:49.270Z",
+    "AccountId": "d888d44e-e472-3f09-8abe-bc523d8b4241"
+  },
+  {
+    "Amount": 636,
+    "TransactionId": "cc51eca5-3a8e-533e-c685-4c5b430966da",
+    "Cleared": "true",
+    "TransactionDateTime": "1998-07-25T04:59:39.714Z",
+    "AccountId": "20629a84-4bab-1c13-539f-e204295ae4e2"
+  },
+  {
+    "Amount": 412,
+    "TransactionId": "c26f3dbd-fc8c-766e-fcdb-33b4fa90daf3",
+    "Cleared": "true",
+    "TransactionDateTime": "1980-01-19T08:06:51.413Z",
+    "AccountId": "90f317ad-90fe-3535-1e73-0adf30d18cfe"
+  },
+  {
+    "Amount": 428,
+    "TransactionId": "3c493605-5f19-1897-ffcc-aa363f78a3e0",
+    "Cleared": "true",
+    "TransactionDateTime": "1986-09-07T12:45:38.838Z",
+    "AccountId": "52db0ff1-d95e-175b-cfbb-dc52591dd9b4"
+  },
+  {
+    "Amount": 698,
+    "TransactionId": "aec0ff7f-503b-f294-6aa8-0f597d47dfee",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-04-11T00:06:11.923Z",
+    "AccountId": "08bfd82b-d81b-8ee8-54a4-8fa557391028"
+  },
+  {
+    "Amount": 137,
+    "TransactionId": "b1a573b1-c95b-94b5-02ee-e64c0c6519ca",
+    "Cleared": "true",
+    "TransactionDateTime": "2019-01-14T15:32:05.075Z",
+    "AccountId": "5f413b0c-072a-2c02-454f-a49600ce5541"
+  },
+  {
+    "Amount": 169,
+    "TransactionId": "5de3a46b-316d-48d3-6bff-2635eeba6065",
+    "Cleared": "true",
+    "TransactionDateTime": "2013-11-30T03:57:15.696Z",
+    "AccountId": "1d22cd0e-b870-b440-09b7-88c14069b681"
+  },
+  {
+    "Amount": 807,
+    "TransactionId": "fdb2d345-004a-d12d-b920-1a74cc9bc618",
+    "Cleared": "true",
+    "TransactionDateTime": "1986-08-07T04:02:00.840Z",
+    "AccountId": "eada1e0d-5a15-59e9-c4a1-dd4c9962ab97"
+  },
+  {
+    "Amount": 673,
+    "TransactionId": "b780a929-f9d5-fb6c-b15d-3d736dc08e71",
+    "Cleared": "true",
+    "TransactionDateTime": "1990-07-31T10:26:56.831Z",
+    "AccountId": "827a286d-c340-af00-fb46-15297cde715e"
+  },
+  {
+    "Amount": 364,
+    "TransactionId": "0f379310-40b8-717e-6b40-e7983b86c18c",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-01-11T03:48:51.845Z",
+    "AccountId": "d4dc1138-d288-e327-5c34-f24bc309b67b"
+  },
+  {
+    "Amount": 117,
+    "TransactionId": "47569273-c51a-ee12-d796-d530ec35868e",
+    "Cleared": "true",
+    "TransactionDateTime": "1980-08-27T14:16:54.931Z",
+    "AccountId": "5575f82a-e9c9-24fe-c20f-f4efdbd5ee97"
+  },
+  {
+    "Amount": 820,
+    "TransactionId": "ee42dd6a-d219-1ebf-c476-78af0232da9e",
+    "Cleared": "true",
+    "TransactionDateTime": "2018-11-22T04:45:44.884Z",
+    "AccountId": "3b11798e-208b-34c6-41e9-5a74929e6002"
+  },
+  {
+    "Amount": 567,
+    "TransactionId": "5931f178-e7d0-d965-630a-174cb67e8157",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-07-26T15:44:45.985Z",
+    "AccountId": "d44b1451-ebfd-b9e2-3ffa-857129b27d82"
+  },
+  {
+    "Amount": 292,
+    "TransactionId": "3b696b64-52a8-0c3d-9aae-57b7afcc245f",
+    "Cleared": "true",
+    "TransactionDateTime": "1991-05-19T18:28:39.433Z",
+    "AccountId": "500e2286-0168-27b4-7b1a-f0f5495b817f"
+  },
+  {
+    "Amount": 894,
+    "TransactionId": "75ee988f-dfb7-6619-c280-76787a4ce764",
+    "Cleared": "true",
+    "TransactionDateTime": "1989-09-07T13:40:34.623Z",
+    "AccountId": "9983ebec-289f-b784-45e1-f276214852d8"
+  },
+  {
+    "Amount": 759,
+    "TransactionId": "324b13ba-b0c1-7355-e80b-0506b095e37a",
+    "Cleared": "true",
+    "TransactionDateTime": "2019-09-25T19:50:17.243Z",
+    "AccountId": "82a67a98-b355-6fbd-79f4-63546474b550"
+  },
+  {
+    "Amount": 60,
+    "TransactionId": "c8438a52-ed18-31b4-e566-b27b2689b0c6",
+    "Cleared": "true",
+    "TransactionDateTime": "2000-04-22T20:11:02.831Z",
+    "AccountId": "2721145f-3227-abaa-cd4c-684475ade5c7"
+  },
+  {
+    "Amount": 455,
+    "TransactionId": "4833c9a2-4eeb-ed19-8f1b-06e5d8d1fbb0",
+    "Cleared": "true",
+    "TransactionDateTime": "1986-07-14T13:51:15.139Z",
+    "AccountId": "3c6d5772-7eb7-d13a-71fd-4899e08e06ed"
+  },
+  {
+    "Amount": 74,
+    "TransactionId": "8220fe04-ea22-8f35-202c-36d15727c2f7",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-07-12T23:28:59.743Z",
+    "AccountId": "ae7b05c8-84cf-7f56-25df-a940bc821488"
+  },
+  {
+    "Amount": 967,
+    "TransactionId": "8e056ee1-57db-4d54-dd28-357b266a36a3",
+    "Cleared": "true",
+    "TransactionDateTime": "1989-03-16T13:26:53.599Z",
+    "AccountId": "a628dced-f759-19d1-eff8-6be3614a2506"
+  },
+  {
+    "Amount": 193,
+    "TransactionId": "e1922e1c-0f32-de8a-4be2-881b33860705",
+    "Cleared": "true",
+    "TransactionDateTime": "2008-10-21T12:14:12.710Z",
+    "AccountId": "f7a7fb07-d16b-1f4b-cdc9-75538386ef16"
+  },
+  {
+    "Amount": 442,
+    "TransactionId": "6e4bff87-6677-7ec2-b0ff-078bf0781f76",
+    "Cleared": "true",
+    "TransactionDateTime": "1995-04-13T06:47:26.132Z",
+    "AccountId": "aa5d6dea-2507-7359-4c42-f518e8e6ae3b"
+  },
+  {
+    "Amount": 435,
+    "TransactionId": "9e55305a-3558-1f3a-7369-9c6353f19985",
+    "Cleared": "true",
+    "TransactionDateTime": "2007-11-14T08:39:29.722Z",
+    "AccountId": "cc6c93fd-b74d-b2f7-991a-4f3df000131a"
+  },
+  {
+    "Amount": 539,
+    "TransactionId": "3e3de957-775c-c65b-2125-177369a9535d",
+    "Cleared": "true",
+    "TransactionDateTime": "2007-03-03T07:27:54.866Z",
+    "AccountId": "cdf92b68-be4b-2b17-3dc3-8dbf0b5b6302"
+  },
+  {
+    "Amount": 113,
+    "TransactionId": "a8d83842-85d5-f4bd-b425-20348906c18b",
+    "Cleared": "true",
+    "TransactionDateTime": "1997-01-20T03:45:08.380Z",
+    "AccountId": "35f7cb02-ab7e-c6f9-cafb-7f68d0782ef7"
+  },
+  {
+    "Amount": 320,
+    "TransactionId": "83aa09c0-b2fe-7010-e524-2e31ba02a5c8",
+    "Cleared": "true",
+    "TransactionDateTime": "1994-02-19T17:54:41.448Z",
+    "AccountId": "3512bc9e-e2eb-05be-cd9b-39724a64b58e"
+  },
+  {
+    "Amount": 476,
+    "TransactionId": "b85f79d6-1f90-8d61-6ae0-ed60bb925461",
+    "Cleared": "true",
+    "TransactionDateTime": "1980-02-11T07:40:11.114Z",
+    "AccountId": "e1ecae6b-fdee-b6fd-3eba-9d78669ea1ce"
+  },
+  {
+    "Amount": 533,
+    "TransactionId": "8dc0ac0c-a220-e8e8-6ba3-b976be8554a8",
+    "Cleared": "true",
+    "TransactionDateTime": "1998-06-19T22:20:46.417Z",
+    "AccountId": "2039cfc9-a04f-99f5-0698-d0d24c7e79f6"
+  },
+  {
+    "Amount": 518,
+    "TransactionId": "c126ed10-805c-4069-5566-fb74ba46cc8d",
+    "Cleared": "true",
+    "TransactionDateTime": "2002-08-08T10:34:39.735Z",
+    "AccountId": "13aee915-610a-a97c-5f0f-e53502f50de2"
+  },
+  {
+    "Amount": 558,
+    "TransactionId": "414fcccf-390f-9de2-fd17-9aeddb957e66",
+    "Cleared": "true",
+    "TransactionDateTime": "1995-12-01T22:56:40.240Z",
+    "AccountId": "2056e91f-6df9-5afd-09c6-6a108a5d037a"
+  },
+  {
+    "Amount": 40,
+    "TransactionId": "1abdf0b8-25d9-4671-ba79-a62c1c437aaa",
+    "Cleared": "true",
+    "TransactionDateTime": "2005-11-14T22:53:24.136Z",
+    "AccountId": "e4c68d2a-5091-2ba4-142d-f643f8d4671c"
+  },
+  {
+    "Amount": 440,
+    "TransactionId": "9c3d0ffa-f38e-40d2-61b5-e1c3e87275b0",
+    "Cleared": "true",
+    "TransactionDateTime": "2007-03-24T20:25:32.748Z",
+    "AccountId": "cb03eda1-4dc7-39ca-fefc-0ba654fdaa08"
+  },
+  {
+    "Amount": 578,
+    "TransactionId": "e5c11056-411d-cfb5-a217-b06114812852",
+    "Cleared": "true",
+    "TransactionDateTime": "2003-09-08T09:26:46.877Z",
+    "AccountId": "e5b8f4b0-beff-4962-14b7-e71f92931ef0"
+  },
+  {
+    "Amount": 448,
+    "TransactionId": "6fb1b796-9491-73b5-d091-4a889b1f3fdb",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-01-24T11:53:55.871Z",
+    "AccountId": "4530f028-57e5-5dde-5452-70f1bcd210cd"
+  },
+  {
+    "Amount": 515,
+    "TransactionId": "2fecb143-00ec-7fe4-9a6e-69e148531e2f",
+    "Cleared": "true",
+    "TransactionDateTime": "2014-03-21T20:00:43.721Z",
+    "AccountId": "140fc15b-9340-bb7c-329e-fe8b496c2d15"
+  },
+  {
+    "Amount": 230,
+    "TransactionId": "6f19534b-07b1-4fd1-3f1f-e1a7ee0cfff1",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-05-26T06:36:36.606Z",
+    "AccountId": "521f6959-7b19-de6a-2a44-d0c970d62053"
+  },
+  {
+    "Amount": 811,
+    "TransactionId": "4c4b4c6e-e49f-dc01-1d8e-c6c93b6207a1",
+    "Cleared": "true",
+    "TransactionDateTime": "1991-12-05T16:41:10.535Z",
+    "AccountId": "ae452c39-71e9-fdf3-ec8a-2c9de5322bef"
+  },
+  {
+    "Amount": 679,
+    "TransactionId": "d4dd5053-5c70-e03a-d6ba-49187fe60bc1",
+    "Cleared": "true",
+    "TransactionDateTime": "1990-11-29T23:58:14.918Z",
+    "AccountId": "dca408f2-bd1d-ddf0-ee39-20e9bf772357"
+  },
+  {
+    "Amount": 588,
+    "TransactionId": "fffb3847-1521-7cd5-5ec9-4028fb43e7bf",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-12-22T06:20:28.078Z",
+    "AccountId": "15dd552c-2949-44ce-c492-45e22f6a4f2f"
+  },
+  {
+    "Amount": 94,
+    "TransactionId": "a99670a0-9b18-5982-eb7d-1becc15a8b33",
+    "Cleared": "true",
+    "TransactionDateTime": "1994-11-25T01:21:27.402Z",
+    "AccountId": "3a2f54da-4923-e468-6696-6fd33923d0a1"
+  },
+  {
+    "Amount": 498,
+    "TransactionId": "5612611b-af2b-b430-040d-4688dfc78f3d",
+    "Cleared": "true",
+    "TransactionDateTime": "2009-05-28T09:11:04.708Z",
+    "AccountId": "3dd6e3ac-b1d9-2de3-550c-9a0bd27ddb73"
+  },
+  {
+    "Amount": 687,
+    "TransactionId": "9c847729-0973-0238-275a-e8a614c621e5",
+    "Cleared": "true",
+    "TransactionDateTime": "2005-01-03T00:34:33.900Z",
+    "AccountId": "91457ede-4379-a695-cb0c-7881b44ea72e"
+  },
+  {
+    "Amount": 377,
+    "TransactionId": "39745958-050c-55dc-cbfc-6bd2d2b07f98",
+    "Cleared": "true",
+    "TransactionDateTime": "2007-10-27T13:04:04.620Z",
+    "AccountId": "63d6d66f-6378-efda-1b0e-0ec4d1ca0bfd"
+  },
+  {
+    "Amount": 114,
+    "TransactionId": "2816084a-c94c-b173-7e86-84c42089ef52",
+    "Cleared": "true",
+    "TransactionDateTime": "1991-06-27T23:10:34.868Z",
+    "AccountId": "269f32f2-011a-5557-ba67-67437d152289"
+  },
+  {
+    "Amount": 620,
+    "TransactionId": "a29657d0-3b20-59a1-94ba-cd73cb202136",
+    "Cleared": "true",
+    "TransactionDateTime": "1985-07-21T22:25:34.246Z",
+    "AccountId": "fffe22ac-3f0f-ce39-ca10-1d7fa9862c4f"
+  },
+  {
+    "Amount": 475,
+    "TransactionId": "e1d13503-2da3-6150-6e80-3f9f8a6125e5",
+    "Cleared": "true",
+    "TransactionDateTime": "2011-08-24T15:42:40.000Z",
+    "AccountId": "a4ad455f-0c1d-8242-3ec6-90ae2326c1f7"
+  },
+  {
+    "Amount": 33,
+    "TransactionId": "f180e794-e49d-d16b-5597-dcfbec4f3ab8",
+    "Cleared": "true",
+    "TransactionDateTime": "1991-05-09T16:00:19.635Z",
+    "AccountId": "e9949a4b-8ed5-8fb2-154f-c2209743cbfc"
+  },
+  {
+    "Amount": 662,
+    "TransactionId": "6bbb64d3-afbd-36ee-6206-2dd0e3d6fec4",
+    "Cleared": "true",
+    "TransactionDateTime": "2008-12-22T08:03:13.688Z",
+    "AccountId": "4292a1fb-75e5-81aa-e35a-3b9416d56e1c"
+  },
+  {
+    "Amount": 271,
+    "TransactionId": "269f2089-2656-ad2d-5535-6bc5a0794cc0",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-04-13T00:21:42.167Z",
+    "AccountId": "4f87f24e-0808-231c-ceb9-a06182d4a6ad"
+  },
+  {
+    "Amount": 201,
+    "TransactionId": "d283218c-257e-966f-bf1e-909d40ecb415",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-07-23T05:10:42.225Z",
+    "AccountId": "64af445c-e092-43ea-4735-db3a2b9e4a40"
+  },
+  {
+    "Amount": 224,
+    "TransactionId": "725e9a5d-82c7-702e-a7bf-b203610a2484",
+    "Cleared": "true",
+    "TransactionDateTime": "2013-12-21T00:32:28.162Z",
+    "AccountId": "8d99febb-bf0f-2d9b-25b6-8e4d13615658"
+  },
+  {
+    "Amount": 561,
+    "TransactionId": "b7601bf2-485e-ebed-e7d5-efb1a455630c",
+    "Cleared": "true",
+    "TransactionDateTime": "1997-01-28T00:32:14.000Z",
+    "AccountId": "4b8ef544-3de8-7c57-5314-3d5b169ce2a3"
+  },
+  {
+    "Amount": 487,
+    "TransactionId": "b8b1c16b-3680-4c0a-b35f-1cf335d7321c",
+    "Cleared": "true",
+    "TransactionDateTime": "2016-07-10T11:21:36.030Z",
+    "AccountId": "9267d804-f63b-6dc0-146f-2feccd87491f"
+  },
+  {
+    "Amount": 575,
+    "TransactionId": "a9fb3cfc-f882-d3d1-6e43-e094a3efa580",
+    "Cleared": "true",
+    "TransactionDateTime": "2012-07-20T15:13:53.711Z",
+    "AccountId": "5d089dab-7e20-aeeb-abd7-36438c468914"
+  },
+  {
+    "Amount": 272,
+    "TransactionId": "618755ca-4c6b-56d9-7bc3-2fd8e3fb3877",
+    "Cleared": "true",
+    "TransactionDateTime": "2016-02-24T10:20:01.178Z",
+    "AccountId": "be234c97-7b4f-fd6a-37ad-ed67e76e4fa2"
+  },
+  {
+    "Amount": 4,
+    "TransactionId": "832b2065-e58f-f6bc-5310-35789479d825",
+    "Cleared": "true",
+    "TransactionDateTime": "1987-01-30T17:02:39.891Z",
+    "AccountId": "9492a56e-7cad-8087-32e0-2b61fbe32367"
+  },
+  {
+    "Amount": 479,
+    "TransactionId": "54f3e8e3-ed0e-7b72-67d2-b472265270ec",
+    "Cleared": "true",
+    "TransactionDateTime": "2018-06-16T07:43:23.011Z",
+    "AccountId": "d2b54a2e-8bcb-5289-32bf-1f43ec96e4fb"
+  },
+  {
+    "Amount": 695,
+    "TransactionId": "5b63ccca-2eb8-efb4-b1ee-9fc47f03d1b0",
+    "Cleared": "true",
+    "TransactionDateTime": "2010-11-01T00:53:29.305Z",
+    "AccountId": "9cc10eb1-163c-bd24-c7f1-b25458a384da"
+  },
+  {
+    "Amount": 169,
+    "TransactionId": "ff95048b-7d71-43e4-fb32-4651f0ef7f31",
+    "Cleared": "true",
+    "TransactionDateTime": "1981-07-03T02:17:28.063Z",
+    "AccountId": "3d3f5fa2-840a-adad-415a-ed99ab64e87f"
+  },
+  {
+    "Amount": 697,
+    "TransactionId": "46533318-582d-1608-421c-8e91575fc710",
+    "Cleared": "true",
+    "TransactionDateTime": "2010-07-03T08:24:34.448Z",
+    "AccountId": "4ca3a20f-71e3-4815-721a-022e719b4e4c"
+  },
+  {
+    "Amount": 24,
+    "TransactionId": "0991b47d-488b-111c-71ed-d24d129fd612",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-06-03T20:17:47.114Z",
+    "AccountId": "bb3b9e2a-e879-25b0-21d7-9d217f0b9a33"
+  },
+  {
+    "Amount": 218,
+    "TransactionId": "f6d171be-49e4-d703-905b-62dcc83da68b",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-05-06T10:40:22.939Z",
+    "AccountId": "a02149fb-1dd2-4dd9-aaa8-caec2f4b92d4"
+  },
+  {
+    "Amount": 311,
+    "TransactionId": "c661e3b8-f2d2-729c-13e6-d940733d6c01",
+    "Cleared": "true",
+    "TransactionDateTime": "2012-01-16T21:44:04.587Z",
+    "AccountId": "5ac2b83a-6365-dd33-e84a-44f21758c9d5"
+  },
+  {
+    "Amount": 445,
+    "TransactionId": "dc7ca354-2043-7124-787b-86417a3dc205",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-04-01T16:50:07.547Z",
+    "AccountId": "16ddd66b-9a44-ba53-a4dd-5b498edff2e9"
+  },
+  {
+    "Amount": 242,
+    "TransactionId": "5e46afaf-475b-c066-148f-c2788302f830",
+    "Cleared": "true",
+    "TransactionDateTime": "2014-01-22T00:55:15.996Z",
+    "AccountId": "3a16eeea-7f1e-68b0-6bf6-6079cf33e243"
+  },
+  {
+    "Amount": 747,
+    "TransactionId": "cb65de15-5904-7a93-3ef5-97f1852503d3",
+    "Cleared": "true",
+    "TransactionDateTime": "2019-08-14T03:04:13.248Z",
+    "AccountId": "ee54d4b5-5905-10e3-6f91-7fca88a73f28"
+  },
+  {
+    "Amount": 369,
+    "TransactionId": "d353cd34-d5d2-54e1-ef8e-8c9b0b645c5d",
+    "Cleared": "true",
+    "TransactionDateTime": "1998-01-04T08:43:05.848Z",
+    "AccountId": "f871c418-c590-f63a-7e0c-8d9fb144184b"
+  },
+  {
+    "Amount": 442,
+    "TransactionId": "98dae312-e8f5-8c80-8606-2a99a1c912f5",
+    "Cleared": "true",
+    "TransactionDateTime": "2000-05-05T00:24:43.557Z",
+    "AccountId": "67b32e0a-6c0c-c198-102b-04ec8cff66e6"
+  },
+  {
+    "Amount": 835,
+    "TransactionId": "85533335-5b51-2807-cb05-2a01baa0315c",
+    "Cleared": "true",
+    "TransactionDateTime": "1987-01-27T15:24:35.720Z",
+    "AccountId": "29eb9962-b353-6a4e-c1b8-46bf17fe7d03"
+  },
+  {
+    "Amount": 634,
+    "TransactionId": "0ada8dfa-ee0f-c6f3-52d0-5dc708ae63bf",
+    "Cleared": "true",
+    "TransactionDateTime": "2005-07-16T02:26:36.998Z",
+    "AccountId": "ec6e9f40-878f-2abb-44d6-9f715e17078e"
+  },
+  {
+    "Amount": 32,
+    "TransactionId": "7a9bf404-3f9f-ada6-2ca4-077f3132df90",
+    "Cleared": "true",
+    "TransactionDateTime": "2013-02-04T05:46:01.106Z",
+    "AccountId": "0c1712c7-2e9b-908c-e1f1-ac23d0292479"
+  },
+  {
+    "Amount": 633,
+    "TransactionId": "107cb3e7-dec4-381e-5b97-fee00b124a1b",
+    "Cleared": "true",
+    "TransactionDateTime": "1998-05-02T10:15:55.533Z",
+    "AccountId": "97df2dab-9d13-0a34-c307-737553d64225"
+  },
+  {
+    "Amount": 981,
+    "TransactionId": "8ece477f-6091-84f1-3316-1682875f4962",
+    "Cleared": "true",
+    "TransactionDateTime": "1999-07-29T16:57:33.783Z",
+    "AccountId": "917ffc49-513e-5f15-e8ed-019da2f022c9"
+  },
+  {
+    "Amount": 168,
+    "TransactionId": "9454751c-97af-afdb-5d7d-6de81edf16a6",
+    "Cleared": "true",
+    "TransactionDateTime": "2002-09-10T06:54:18.590Z",
+    "AccountId": "1f137117-69b6-63a7-e396-5daaeeb73df0"
+  },
+  {
+    "Amount": 516,
+    "TransactionId": "c53590a5-31a7-e61d-b80b-c674e5f03c79",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-10-03T22:44:30.226Z",
+    "AccountId": "6dcfe2b7-e66e-eaa9-7e77-72c10376c925"
+  },
+  {
+    "Amount": 398,
+    "TransactionId": "bff9ccd3-7957-feec-cc48-9814ab7e1762",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-05-17T20:46:20.365Z",
+    "AccountId": "7391500e-41eb-cd13-0cf2-f32f43409b18"
+  },
+  {
+    "Amount": 772,
+    "TransactionId": "5e76805c-60eb-8fc5-a0b7-7be87be42555",
+    "Cleared": "true",
+    "TransactionDateTime": "2013-10-28T19:00:39.013Z",
+    "AccountId": "0fdcecd2-0511-6bf5-4c48-dd9aa303acaa"
+  },
+  {
+    "Amount": 998,
+    "TransactionId": "cd1718a2-a1b5-6183-d312-bf6e613ff00f",
+    "Cleared": "true",
+    "TransactionDateTime": "2012-10-19T09:57:38.900Z",
+    "AccountId": "27eec4ec-1400-218a-3d59-3555f19c3986"
+  },
+  {
+    "Amount": 271,
+    "TransactionId": "91b646a4-c8f0-24b4-bebf-17034600b977",
+    "Cleared": "true",
+    "TransactionDateTime": "2013-01-09T16:54:00.007Z",
+    "AccountId": "b2fd9714-ee14-10bd-23ac-4c0e6f5a563b"
+  },
+  {
+    "Amount": 195,
+    "TransactionId": "a41fde84-4471-5baf-d592-db6a610e5297",
+    "Cleared": "true",
+    "TransactionDateTime": "2016-11-07T06:27:19.021Z",
+    "AccountId": "bcad15c9-5e82-be94-4b97-9341533fa842"
+  },
+  {
+    "Amount": 110,
+    "TransactionId": "6e2513c6-f175-80c9-f5a2-afa866fe5a96",
+    "Cleared": "true",
+    "TransactionDateTime": "2004-01-07T03:12:57.975Z",
+    "AccountId": "ce576384-8b97-d808-6621-b7fbc1b0cfe2"
+  },
+  {
+    "Amount": 459,
+    "TransactionId": "d45d03d9-0dae-36bb-2ee7-47fb120cf48a",
+    "Cleared": "true",
+    "TransactionDateTime": "1988-04-18T05:53:45.605Z",
+    "AccountId": "ded42481-c69f-1dbf-3883-7580e3ac1dc4"
+  },
+  {
+    "Amount": 807,
+    "TransactionId": "0b943e4e-6832-c1d4-361a-e3a3de511e9c",
+    "Cleared": "true",
+    "TransactionDateTime": "1991-09-05T11:16:25.703Z",
+    "AccountId": "e0ed34f6-96a8-212c-61f2-fcbe293c0aa9"
+  },
+  {
+    "Amount": 463,
+    "TransactionId": "f7873c77-f9a7-a088-7089-a33f81d32fa6",
+    "Cleared": "true",
+    "TransactionDateTime": "1981-11-19T02:26:38.339Z",
+    "AccountId": "ab70b497-5954-f989-ab69-62a1eecaa941"
+  },
+  {
+    "Amount": 221,
+    "TransactionId": "ef5efd9c-ddb9-a34e-5641-2f3b2b3a0f45",
+    "Cleared": "true",
+    "TransactionDateTime": "1999-05-20T13:24:52.086Z",
+    "AccountId": "236e8250-7a52-a80a-6819-7832e2c76bae"
+  },
+  {
+    "Amount": 147,
+    "TransactionId": "2b7c3915-1e4e-f7f4-6eab-57dad0aa4bc7",
+    "Cleared": "true",
+    "TransactionDateTime": "2014-06-25T20:06:59.640Z",
+    "AccountId": "0689b312-1a38-f374-b386-6f7c56fe1302"
+  },
+  {
+    "Amount": 867,
+    "TransactionId": "0a6a1451-97d5-fb85-823d-fb6bc1eb16db",
+    "Cleared": "true",
+    "TransactionDateTime": "1983-02-23T03:04:41.543Z",
+    "AccountId": "9f83dfdb-6dff-1536-033a-261fe00a0e83"
+  },
+  {
+    "Amount": 359,
+    "TransactionId": "5a2b65a9-38e7-ea4d-5bd5-74508004cfbc",
+    "Cleared": "true",
+    "TransactionDateTime": "1987-08-05T04:40:27.062Z",
+    "AccountId": "1e1003cf-5148-dc8b-f994-69f532b44513"
+  },
+  {
+    "Amount": 410,
+    "TransactionId": "1ad96940-2d6f-6a0e-3eda-41d875c87304",
+    "Cleared": "true",
+    "TransactionDateTime": "2016-10-30T18:24:40.327Z",
+    "AccountId": "dec88f8c-5ecc-fd13-e983-a2cce53a4da4"
+  },
+  {
+    "Amount": 187,
+    "TransactionId": "819a3e27-9948-3421-3aa4-4991770a067e",
+    "Cleared": "true",
+    "TransactionDateTime": "1999-04-29T03:18:13.187Z",
+    "AccountId": "6752c792-b6b2-82fb-3694-4314367e6b9c"
+  },
+  {
+    "Amount": 865,
+    "TransactionId": "12353f1c-8292-1b8d-5583-0e81f69e13dd",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-05-05T18:26:16.158Z",
+    "AccountId": "9037e46b-2ed0-0097-9977-2e2b08dbc4a9"
+  },
+  {
+    "Amount": 387,
+    "TransactionId": "a48d7c28-516a-d744-92c4-5fbc494c3d9a",
+    "Cleared": "true",
+    "TransactionDateTime": "2002-12-21T03:31:45.181Z",
+    "AccountId": "5c6a7383-b24a-d4ba-b60a-ff832f18c7af"
+  },
+  {
+    "Amount": 152,
+    "TransactionId": "2c262f34-c489-526b-3c35-98d65e75870e",
+    "Cleared": "true",
+    "TransactionDateTime": "2015-11-11T17:37:04.329Z",
+    "AccountId": "325833e4-9f92-c1b7-75b7-4f144a255840"
+  },
+  {
+    "Amount": 422,
+    "TransactionId": "cd6f3ef5-47d0-28b6-e3e7-f2ded1607935",
+    "Cleared": "true",
+    "TransactionDateTime": "2014-10-01T16:45:57.188Z",
+    "AccountId": "b3fed31c-7cf1-27ac-1aa1-34abd255ec7d"
+  },
+  {
+    "Amount": 879,
+    "TransactionId": "1f0d51a7-c5b8-a863-55e2-bc42a6998d6d",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-02-17T06:07:15.137Z",
+    "AccountId": "1d581ed2-e7a0-d04c-3c29-b64a3f82807f"
+  },
+  {
+    "Amount": 556,
+    "TransactionId": "57f045c2-2cda-42b9-64a8-1836c896b01f",
+    "Cleared": "true",
+    "TransactionDateTime": "1986-02-09T12:25:54.370Z",
+    "AccountId": "121f77e4-b8ba-b973-42b6-f8ade87472be"
+  },
+  {
+    "Amount": 307,
+    "TransactionId": "841ef2d2-1db2-07f2-baa7-2d03cf83cb34",
+    "Cleared": "true",
+    "TransactionDateTime": "2011-01-18T11:42:05.568Z",
+    "AccountId": "a8c6f5df-2c35-d064-ccf9-222ef4576b8c"
+  },
+  {
+    "Amount": 326,
+    "TransactionId": "2ba3df22-6a89-78eb-9606-6098d08a5fd2",
+    "Cleared": "true",
+    "TransactionDateTime": "1990-09-10T07:14:50.267Z",
+    "AccountId": "8b435a1e-7802-71b7-91e7-ebcadf76cf2c"
+  },
+  {
+    "Amount": 584,
+    "TransactionId": "89a6aaf3-10e1-660f-b1af-ed7f312f481e",
+    "Cleared": "true",
+    "TransactionDateTime": "1988-10-18T04:41:25.312Z",
+    "AccountId": "ce7f2b5d-23a7-8a78-b0d0-f945298c2c41"
+  },
+  {
+    "Amount": 981,
+    "TransactionId": "c5f3ac02-509c-7c25-656d-e69dbdc0cac7",
+    "Cleared": "true",
+    "TransactionDateTime": "2012-11-19T17:03:07.911Z",
+    "AccountId": "ee3bd4aa-9edc-5c68-763c-a8258ea46e4e"
+  },
+  {
+    "Amount": 964,
+    "TransactionId": "b23b4181-9497-2a34-e28a-c69515b50151",
+    "Cleared": "true",
+    "TransactionDateTime": "2003-04-09T20:36:23.679Z",
+    "AccountId": "8ab71d23-03d8-ec7e-a7bb-9356ff413f25"
+  },
+  {
+    "Amount": 784,
+    "TransactionId": "f979b99c-159a-e6d2-2ea8-4a89dfcc0a7f",
+    "Cleared": "true",
+    "TransactionDateTime": "2004-04-07T13:52:28.447Z",
+    "AccountId": "6d54bd4e-20d4-48c4-e770-d3071a834b9f"
+  },
+  {
+    "Amount": 822,
+    "TransactionId": "498907b2-8c3a-e07a-fac3-275e5e4cffa6",
+    "Cleared": "true",
+    "TransactionDateTime": "2011-07-30T16:36:50.548Z",
+    "AccountId": "b6dfe113-98cd-e0b7-c8d3-60387564b29a"
+  },
+  {
+    "Amount": 404,
+    "TransactionId": "6695f51b-53be-86e6-8df7-8f36bf8d274c",
+    "Cleared": "true",
+    "TransactionDateTime": "2009-01-22T21:43:17.278Z",
+    "AccountId": "263dcf03-e737-8cf6-fa1b-83f378dd89dd"
+  },
+  {
+    "Amount": 342,
+    "TransactionId": "14205ec6-ad23-ccc1-c8df-0eb61b33ccb3",
+    "Cleared": "true",
+    "TransactionDateTime": "1992-06-20T20:21:46.864Z",
+    "AccountId": "b6f12f8d-e1b0-5f79-70d2-ae8069bc12bd"
+  },
+  {
+    "Amount": 948,
+    "TransactionId": "8c8f405e-5e7b-640a-55ca-6645a2af839f",
+    "Cleared": "true",
+    "TransactionDateTime": "1985-10-04T10:09:55.913Z",
+    "AccountId": "cbf9f69d-733b-e69d-f74d-ef40fa959864"
+  },
+  {
+    "Amount": 382,
+    "TransactionId": "75711c05-437d-c3f8-54af-6a16b3e192b0",
+    "Cleared": "true",
+    "TransactionDateTime": "1992-02-13T02:30:18.513Z",
+    "AccountId": "85d7259e-57ed-ef9f-1b35-4d8ab26f8e81"
+  },
+  {
+    "Amount": 542,
+    "TransactionId": "2d2d19c5-bb74-7d4c-5f2c-492ecb764297",
+    "Cleared": "true",
+    "TransactionDateTime": "1980-11-13T02:49:42.491Z",
+    "AccountId": "f20b5ba6-9b97-2c39-5820-301aae598362"
+  },
+  {
+    "Amount": 814,
+    "TransactionId": "eccfc962-68d8-e01f-07a6-f612c7fe7454",
+    "Cleared": "true",
+    "TransactionDateTime": "1992-07-08T09:47:43.232Z",
+    "AccountId": "2242add8-ec28-434f-bfc9-43feffdd19e6"
+  },
+  {
+    "Amount": 100,
+    "TransactionId": "3c963738-0968-40fa-b7a7-78c3dde031cc",
+    "Cleared": "true",
+    "TransactionDateTime": "1987-08-16T05:35:19.796Z",
+    "AccountId": "2941b0c6-0cc4-f9ff-40ea-6acfd8e046f8"
+  },
+  {
+    "Amount": 599,
+    "TransactionId": "6aa842be-85e3-538d-97b8-2ac47cdf29ef",
+    "Cleared": "true",
+    "TransactionDateTime": "2014-06-11T17:21:16.183Z",
+    "AccountId": "00a519a2-b60a-0dae-d851-64e86bf30094"
+  },
+  {
+    "Amount": 54,
+    "TransactionId": "a62f2fc5-3f5a-8bb6-8efb-4c5013bae41a",
+    "Cleared": "true",
+    "TransactionDateTime": "2001-09-22T21:38:56.537Z",
+    "AccountId": "5e5c46fa-f3ba-23d1-9baf-566d60601b00"
+  },
+  {
+    "Amount": 42,
+    "TransactionId": "23f33842-126c-5d66-e42e-c6b4cc72e5ff",
+    "Cleared": "true",
+    "TransactionDateTime": "1986-12-17T19:54:40.477Z",
+    "AccountId": "d0a543ca-ff72-735f-671a-809529ca3006"
+  },
+  {
+    "Amount": 610,
+    "TransactionId": "10471706-5745-7008-35d9-963ed062cad2",
+    "Cleared": "true",
+    "TransactionDateTime": "1990-09-07T08:31:48.402Z",
+    "AccountId": "145d795a-729a-6d3f-645e-60f6fd98b704"
+  },
+  {
+    "Amount": 30,
+    "TransactionId": "9f3ec4f7-8e44-fe13-1a36-4c35d2db0cd4",
+    "Cleared": "true",
+    "TransactionDateTime": "1994-04-28T13:17:11.085Z",
+    "AccountId": "0559cff6-013c-cb89-71a7-39e48100c947"
+  },
+  {
+    "Amount": 368,
+    "TransactionId": "2d59afe4-c0e1-c0e4-8d0e-1846ab6335d4",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-04-10T18:36:09.588Z",
+    "AccountId": "4036924a-63fe-7f28-aa45-0487a93a50a0"
+  },
+  {
+    "Amount": 839,
+    "TransactionId": "83eeff76-e4bc-97e3-493b-96211bfa47b4",
+    "Cleared": "true",
+    "TransactionDateTime": "2008-11-30T16:16:52.467Z",
+    "AccountId": "5bd408fa-7604-195b-1f32-3d5ff9235150"
+  },
+  {
+    "Amount": 880,
+    "TransactionId": "380f31e3-e0b0-65b9-6533-dcee419d9d40",
+    "Cleared": "true",
+    "TransactionDateTime": "2006-03-16T07:06:45.778Z",
+    "AccountId": "49ad8a73-33a9-d598-0e95-bc5e60ab5970"
+  },
+  {
+    "Amount": 794,
+    "TransactionId": "7163ad52-8966-0bde-768f-31218e8b8a18",
+    "Cleared": "true",
+    "TransactionDateTime": "2019-02-09T22:49:07.484Z",
+    "AccountId": "66d26984-f449-7c87-e4a3-0219a3137a83"
+  },
+  {
+    "Amount": 219,
+    "TransactionId": "c2e5782d-6f24-a6b0-c0e5-be36c895e95f",
+    "Cleared": "true",
+    "TransactionDateTime": "1992-08-13T07:56:19.925Z",
+    "AccountId": "57d51d3d-b9b0-a4ec-f662-23c710acbaf4"
+  },
+  {
+    "Amount": 481,
+    "TransactionId": "f15ef0ac-4813-78e1-c313-3cc3ff0e20ab",
+    "Cleared": "true",
+    "TransactionDateTime": "1983-03-07T20:29:36.111Z",
+    "AccountId": "3a987796-882a-8162-3da5-457782857bf9"
+  },
+  {
+    "Amount": 5,
+    "TransactionId": "69b0e4e9-2397-6727-66bc-bfa958dc783d",
+    "Cleared": "true",
+    "TransactionDateTime": "1994-02-27T11:01:44.444Z",
+    "AccountId": "f28b2cd7-f92b-698e-17c6-34266a7265de"
+  },
+  {
+    "Amount": 593,
+    "TransactionId": "a28f7a90-6865-03f7-fb46-795683427e60",
+    "Cleared": "true",
+    "TransactionDateTime": "2009-01-07T06:54:53.633Z",
+    "AccountId": "bcc7f591-4b41-b7ee-1e0c-6518952a1025"
+  },
+  {
+    "Amount": 954,
+    "TransactionId": "29071adc-a368-d2ac-bd36-5ee73b8a9f87",
+    "Cleared": "true",
+    "TransactionDateTime": "1980-07-04T00:21:08.590Z",
+    "AccountId": "d1b8db82-ba24-63be-387e-e9e14653e5c9"
+  },
+  {
+    "Amount": 32,
+    "TransactionId": "d89fd00e-783f-a1a4-6b38-a857b6f4c72b",
+    "Cleared": "true",
+    "TransactionDateTime": "2014-05-13T08:09:55.142Z",
+    "AccountId": "cd21323f-1e9d-33d5-1e17-9a1cbfdbbfc0"
+  },
+  {
+    "Amount": 26,
+    "TransactionId": "b9b1dbf6-51c5-bbe7-89d4-a67db9c5bc0e",
+    "Cleared": "true",
+    "TransactionDateTime": "2018-09-28T19:23:46.577Z",
+    "AccountId": "d7a31443-11e8-38ba-bfc7-fcb1baab1e5a"
+  },
+  {
+    "Amount": 466,
+    "TransactionId": "2007fe54-1bee-0ff2-72ff-882ff129b053",
+    "Cleared": "true",
+    "TransactionDateTime": "1990-06-21T12:49:05.617Z",
+    "AccountId": "4ecd7076-e661-a62b-be1d-b44ae7466002"
+  },
+  {
+    "Amount": 242,
+    "TransactionId": "20f484b1-4ee1-f77e-c501-58753c9010d8",
+    "Cleared": "true",
+    "TransactionDateTime": "2012-01-01T14:46:56.702Z",
+    "AccountId": "48118e06-fd3c-4c08-a794-41d8adc159eb"
+  },
+  {
+    "Amount": 45,
+    "TransactionId": "b9a5eefe-d8f3-0854-cad5-1336c967b5ab",
+    "Cleared": "true",
+    "TransactionDateTime": "2007-01-07T04:48:28.994Z",
+    "AccountId": "57f8eba3-48b2-36ac-10ac-122a89479952"
+  },
+  {
+    "Amount": 495,
+    "TransactionId": "bc5069cc-83bd-106b-933d-028448d08d58",
+    "Cleared": "true",
+    "TransactionDateTime": "2001-10-29T21:58:34.330Z",
+    "AccountId": "0171db0d-a927-6257-5b46-5667ac286829"
+  },
+  {
+    "Amount": 9,
+    "TransactionId": "b8f0075a-3504-8e92-2929-9d06000d4013",
+    "Cleared": "true",
+    "TransactionDateTime": "2006-06-10T14:48:26.535Z",
+    "AccountId": "160cba5d-e10a-6bb6-fd13-15bd74c595dd"
+  },
+  {
+    "Amount": 510,
+    "TransactionId": "d6e4a58a-af7a-b13e-40c4-165af6dcb0f8",
+    "Cleared": "true",
+    "TransactionDateTime": "1993-11-04T01:21:59.851Z",
+    "AccountId": "eea080ab-9908-16ec-d392-ef8670c77fab"
+  },
+  {
+    "Amount": 738,
+    "TransactionId": "b4f60613-a8ca-3269-63d3-33c670bb7325",
+    "Cleared": "true",
+    "TransactionDateTime": "1992-11-24T01:51:14.509Z",
+    "AccountId": "1e7f8dea-60db-e40a-0afc-53fa611db8cc"
+  },
+  {
+    "Amount": 881,
+    "TransactionId": "989ab9fa-4ed8-e398-71eb-06cba4dc8b51",
+    "Cleared": "true",
+    "TransactionDateTime": "1998-05-16T10:50:11.013Z",
+    "AccountId": "0a1966af-3cad-a4ed-8c41-3e76d4958682"
+  },
+  {
+    "Amount": 47,
+    "TransactionId": "8d538c22-0664-3149-4467-1c2c5823787b",
+    "Cleared": "true",
+    "TransactionDateTime": "2009-03-02T01:43:17.780Z",
+    "AccountId": "13aae4f4-59ad-281d-2a6c-e068a72b9165"
+  },
+  {
+    "Amount": 611,
+    "TransactionId": "8e973d52-902e-af3e-848d-b3a6615826da",
+    "Cleared": "true",
+    "TransactionDateTime": "2015-11-07T14:46:38.149Z",
+    "AccountId": "4ca0704f-bba0-6332-9a52-9e4b2fe5f74f"
+  },
+  {
+    "Amount": 138,
+    "TransactionId": "bdbc2b66-3f39-b436-1676-5ae5b8762793",
+    "Cleared": "true",
+    "TransactionDateTime": "2010-05-31T19:06:06.994Z",
+    "AccountId": "ee2fe3c0-9980-be68-7628-dc0f73712c52"
+  },
+  {
+    "Amount": 1,
+    "TransactionId": "7708af4f-613d-fa3c-c115-607be8bb807d",
+    "Cleared": "true",
+    "TransactionDateTime": "2017-03-19T02:21:16.800Z",
+    "AccountId": "d068883d-d905-eed3-4394-d0f3d5e3e2b8"
+  },
+  {
+    "Amount": 724,
+    "TransactionId": "d3b40612-de0f-c520-d60d-09781f342143",
+    "Cleared": "true",
+    "TransactionDateTime": "1988-03-13T19:48:52.858Z",
+    "AccountId": "76009d59-9c86-ff7a-75b1-ea1d9bcdb638"
+  },
+  {
+    "Amount": 759,
+    "TransactionId": "95b49199-983e-a987-6594-c0d2046b32dd",
+    "Cleared": "true",
+    "TransactionDateTime": "2017-04-07T15:42:46.510Z",
+    "AccountId": "850a9313-a251-e080-67ef-9f9c35d70d90"
+  },
+  {
+    "Amount": 835,
+    "TransactionId": "aef6b38c-bb6e-8e73-252f-e7fd9ad8eff2",
+    "Cleared": "true",
+    "TransactionDateTime": "2001-10-26T04:56:27.090Z",
+    "AccountId": "c2546d79-1425-9e0a-7b0a-122b4b0863f7"
+  },
+  {
+    "Amount": 275,
+    "TransactionId": "a9f2b2f7-e961-335f-5254-513b5dc35cea",
+    "Cleared": "true",
+    "TransactionDateTime": "1994-12-22T03:35:01.303Z",
+    "AccountId": "2c719774-a362-de32-bfd7-f007d918fd1f"
+  },
+  {
+    "Amount": 828,
+    "TransactionId": "b3a448e8-0767-d6f7-4681-4111fb361085",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-10-26T03:16:55.018Z",
+    "AccountId": "9a7ba09e-81c0-41ba-609b-926c2075e0bf"
+  },
+  {
+    "Amount": 483,
+    "TransactionId": "469830b0-d858-7a51-f047-d58296cf92fb",
+    "Cleared": "true",
+    "TransactionDateTime": "2004-02-18T16:40:06.220Z",
+    "AccountId": "c1b0b5a5-5c3d-d44a-b6ed-171ee9b125fa"
+  },
+  {
+    "Amount": 65,
+    "TransactionId": "4981e66f-dbeb-e543-a6dc-126ae0aed7a5",
+    "Cleared": "true",
+    "TransactionDateTime": "2017-04-30T17:35:16.541Z",
+    "AccountId": "b4abd499-ff18-97f9-7ff2-ff3fefb63373"
+  },
+  {
+    "Amount": 468,
+    "TransactionId": "98ccd2c1-2cfd-7159-c8e6-add4075e26d6",
+    "Cleared": "true",
+    "TransactionDateTime": "1985-06-14T23:39:11.894Z",
+    "AccountId": "684930e8-f6d2-1377-5d08-a6c946a3787e"
+  },
+  {
+    "Amount": 283,
+    "TransactionId": "87b978af-9878-4db7-2730-18d95528b906",
+    "Cleared": "true",
+    "TransactionDateTime": "2004-06-10T18:54:38.336Z",
+    "AccountId": "d460b8c1-10aa-913e-63f4-20c3b82c9e03"
+  },
+  {
+    "Amount": 120,
+    "TransactionId": "3e00edc1-4311-6a2f-851b-6a641e158678",
+    "Cleared": "true",
+    "TransactionDateTime": "1991-10-07T18:14:59.074Z",
+    "AccountId": "b79c88b4-fb16-ab7f-8d11-95436da12065"
+  },
+  {
+    "Amount": 79,
+    "TransactionId": "e4ab28b5-ff80-c5a8-195c-61c266457ba5",
+    "Cleared": "true",
+    "TransactionDateTime": "2004-10-31T11:56:03.805Z",
+    "AccountId": "cdb8c275-29d6-f089-1e10-d1c5e04f8d47"
+  },
+  {
+    "Amount": 892,
+    "TransactionId": "3f2a5b52-39af-bc2f-b0cf-d21a6bf71113",
+    "Cleared": "true",
+    "TransactionDateTime": "2013-01-06T18:13:12.339Z",
+    "AccountId": "a80f6b77-09b5-acd3-6799-ab28392e06ce"
+  },
+  {
+    "Amount": 670,
+    "TransactionId": "61c41e84-3227-246a-beb3-ac3c4b69e15d",
+    "Cleared": "true",
+    "TransactionDateTime": "1997-11-02T21:01:57.111Z",
+    "AccountId": "bcea6878-a227-7bb6-8754-aaf664325710"
+  },
+  {
+    "Amount": 473,
+    "TransactionId": "a8de7f91-74a1-7461-e819-ebc1a12b9c84",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-09-08T13:56:03.555Z",
+    "AccountId": "a28c6da1-e525-e883-636b-b9c2be6185c0"
+  },
+  {
+    "Amount": 183,
+    "TransactionId": "a4df0823-d29b-34f8-2e2f-fbd9974c4f80",
+    "Cleared": "true",
+    "TransactionDateTime": "1989-07-16T21:23:14.184Z",
+    "AccountId": "6fc1d130-b1c8-b00a-f61d-17089af655ae"
+  },
+  {
+    "Amount": 914,
+    "TransactionId": "e2f0b237-b964-720b-ac4d-3e6c483fe146",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-01-11T07:42:08.019Z",
+    "AccountId": "d69deec9-22aa-7681-3bb3-d356697bab5a"
+  },
+  {
+    "Amount": 850,
+    "TransactionId": "def2f215-a00e-d543-b0c9-70bc46c619f6",
+    "Cleared": "true",
+    "TransactionDateTime": "2010-07-27T23:58:18.713Z",
+    "AccountId": "b99bea71-f38b-f85f-dd4b-f064ad3f2507"
+  },
+  {
+    "Amount": 854,
+    "TransactionId": "237ade82-471d-182f-277f-cb3a5faab025",
+    "Cleared": "true",
+    "TransactionDateTime": "2019-02-27T16:48:54.113Z",
+    "AccountId": "181cfcb4-70d1-944e-078d-d6e8f51a3d1e"
+  },
+  {
+    "Amount": 498,
+    "TransactionId": "b7d5a0b0-20c0-185c-c332-a60e42d57ca8",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-03-12T07:14:29.745Z",
+    "AccountId": "dd0ace06-db61-ea0d-36df-09ba7081076e"
+  },
+  {
+    "Amount": 698,
+    "TransactionId": "183c8b0d-8529-cae2-d82b-f230aa9deebc",
+    "Cleared": "true",
+    "TransactionDateTime": "2019-09-22T02:09:18.917Z",
+    "AccountId": "a09ca8fd-e0cb-c675-357c-29ab877ee029"
+  },
+  {
+    "Amount": 560,
+    "TransactionId": "3bdf8f0d-17a4-47f5-0a30-c643fabe0f08",
+    "Cleared": "true",
+    "TransactionDateTime": "2007-06-25T01:42:28.141Z",
+    "AccountId": "67a57905-14b8-0ae2-6ccf-d08b9c521735"
+  },
+  {
+    "Amount": 952,
+    "TransactionId": "3df251b8-9d7a-957c-a121-7e1ac1cdafc4",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-01-13T03:00:25.742Z",
+    "AccountId": "f0a412c8-38bc-2c91-9bd3-f1e9eb04026a"
+  },
+  {
+    "Amount": 41,
+    "TransactionId": "56429ac1-776d-b093-5996-4bc2cd928398",
+    "Cleared": "true",
+    "TransactionDateTime": "2001-10-11T08:00:34.362Z",
+    "AccountId": "ce0aeb38-554d-6085-3af7-88d11e77ea21"
+  },
+  {
+    "Amount": 633,
+    "TransactionId": "2fcf1aa8-876b-bf64-9875-b3fda247d107",
+    "Cleared": "true",
+    "TransactionDateTime": "2014-01-11T05:51:17.389Z",
+    "AccountId": "7720b403-924a-daef-2281-c64acf47bf96"
+  },
+  {
+    "Amount": 333,
+    "TransactionId": "4a46ac53-9943-fe0b-a0b9-54cc69d16460",
+    "Cleared": "true",
+    "TransactionDateTime": "1997-02-06T17:47:01.242Z",
+    "AccountId": "13041349-aee9-3bbd-00e5-c4062241d682"
+  },
+  {
+    "Amount": 316,
+    "TransactionId": "985270cc-2166-883b-5a3c-2461639c2945",
+    "Cleared": "true",
+    "TransactionDateTime": "2008-03-13T10:31:26.760Z",
+    "AccountId": "161ed23b-b97b-f890-a896-190b4b903bb8"
+  },
+  {
+    "Amount": 565,
+    "TransactionId": "753acc42-feda-81c0-d72a-a9ef97408c44",
+    "Cleared": "true",
+    "TransactionDateTime": "1997-05-20T07:52:13.666Z",
+    "AccountId": "8e4bed61-3bbe-39f3-b3ed-60e721978705"
+  },
+  {
+    "Amount": 391,
+    "TransactionId": "93dd759c-7264-032d-a292-071e31d139be",
+    "Cleared": "true",
+    "TransactionDateTime": "2010-08-04T00:31:30.993Z",
+    "AccountId": "5c4c7e28-6359-8bf7-6c8d-1787e8a92fdf"
+  },
+  {
+    "Amount": 376,
+    "TransactionId": "207712d2-278e-aa5a-682a-6a6796de689d",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-03-21T07:54:10.086Z",
+    "AccountId": "06cbbd84-7ef7-5f93-1b0b-668758d5e905"
+  },
+  {
+    "Amount": 632,
+    "TransactionId": "e4a57663-25c1-34fd-96cc-ea2d3f14f921",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-01-07T12:32:33.115Z",
+    "AccountId": "83310a41-3c55-3ed3-6465-778c654c2ffa"
+  },
+  {
+    "Amount": 434,
+    "TransactionId": "4796f579-7b46-caa5-687c-901c616b10a7",
+    "Cleared": "true",
+    "TransactionDateTime": "2007-11-01T10:29:26.129Z",
+    "AccountId": "6725f44d-7e0b-cc9d-3587-8cbb4e90639e"
+  },
+  {
+    "Amount": 972,
+    "TransactionId": "e9644ee4-77cc-72fd-36d1-c060af6abf2b",
+    "Cleared": "true",
+    "TransactionDateTime": "2011-04-14T23:45:54.095Z",
+    "AccountId": "6ce197b8-2990-3322-4a23-be16e2e835a6"
+  },
+  {
+    "Amount": 155,
+    "TransactionId": "7a0b6eb3-a7a9-cb0c-c641-885e6b5bc393",
+    "Cleared": "true",
+    "TransactionDateTime": "1985-01-17T22:38:42.457Z",
+    "AccountId": "743cf212-4ffa-a619-bef8-4653ea246bac"
+  },
+  {
+    "Amount": 961,
+    "TransactionId": "c0d5ab12-733b-486f-962b-448a835571e4",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-10-02T13:00:38.778Z",
+    "AccountId": "11db9523-c52e-ce3f-5818-9ad79b39841d"
+  },
+  {
+    "Amount": 740,
+    "TransactionId": "e898811c-e493-2751-7537-6925b32e41e1",
+    "Cleared": "true",
+    "TransactionDateTime": "1991-09-26T04:03:41.241Z",
+    "AccountId": "bc44bffd-07f0-2a51-22cd-0340db8a2a82"
+  },
+  {
+    "Amount": 450,
+    "TransactionId": "d432d74f-94cc-49da-62bd-30a0565a2b0e",
+    "Cleared": "true",
+    "TransactionDateTime": "2001-09-19T04:07:20.559Z",
+    "AccountId": "c0291b09-0596-1e62-f94e-6325fee88e03"
+  },
+  {
+    "Amount": 654,
+    "TransactionId": "c9b261c8-da85-db1e-ee4f-4511bfe1fcdf",
+    "Cleared": "true",
+    "TransactionDateTime": "2019-11-03T07:43:44.857Z",
+    "AccountId": "0cfc85d6-f8ee-20dd-7a27-941fa99f735d"
+  },
+  {
+    "Amount": 832,
+    "TransactionId": "634cbd31-7572-49cc-2a9e-cad29bc2503a",
+    "Cleared": "true",
+    "TransactionDateTime": "1994-01-07T03:37:49.120Z",
+    "AccountId": "83182671-8044-18e9-9bc9-a119f07293b8"
+  },
+  {
+    "Amount": 358,
+    "TransactionId": "f346fa99-f7f8-f839-6d5c-fc95f7b1f030",
+    "Cleared": "true",
+    "TransactionDateTime": "2003-05-15T20:24:31.607Z",
+    "AccountId": "5d05ad61-5ead-6aa5-08e3-5de10c43f0f1"
+  },
+  {
+    "Amount": 453,
+    "TransactionId": "fe349868-6c58-f68f-e07a-641e7dd6a500",
+    "Cleared": "true",
+    "TransactionDateTime": "2016-04-12T15:31:48.051Z",
+    "AccountId": "c03a841d-efd6-50a9-d3e7-8604668befe3"
+  },
+  {
+    "Amount": 524,
+    "TransactionId": "f1095e89-3627-c54f-0519-9436b19b12a9",
+    "Cleared": "true",
+    "TransactionDateTime": "2018-05-29T15:14:50.420Z",
+    "AccountId": "e640ad57-ea0d-9304-77ba-87f70aacb76b"
+  },
+  {
+    "Amount": 705,
+    "TransactionId": "081598d2-9d4f-6d22-a381-525ca0c48a54",
+    "Cleared": "true",
+    "TransactionDateTime": "1985-04-13T20:55:43.954Z",
+    "AccountId": "9943091a-1ad0-300d-60c8-693ba605008b"
+  },
+  {
+    "Amount": 584,
+    "TransactionId": "8c3fe026-feef-6364-8d7d-f1516d2c63af",
+    "Cleared": "true",
+    "TransactionDateTime": "2008-09-21T01:54:34.561Z",
+    "AccountId": "ffb3b9fa-a968-ae1a-fac6-06834a0b7738"
+  },
+  {
+    "Amount": 717,
+    "TransactionId": "fa1682b0-a321-9126-3bce-c3c76c9cef76",
+    "Cleared": "true",
+    "TransactionDateTime": "2013-07-24T01:34:59.956Z",
+    "AccountId": "1613720d-a173-bcbd-4c25-fe6606a6a34d"
+  },
+  {
+    "Amount": 653,
+    "TransactionId": "5aa740ea-c4d8-9d85-2d51-5030efd248a8",
+    "Cleared": "true",
+    "TransactionDateTime": "1997-06-11T10:24:44.476Z",
+    "AccountId": "dd7a079f-f668-61f9-e89e-b0c8305bc6c2"
+  },
+  {
+    "Amount": 700,
+    "TransactionId": "39031f93-fd18-f79d-925b-58a6453e1b96",
+    "Cleared": "true",
+    "TransactionDateTime": "1980-06-08T06:38:40.032Z",
+    "AccountId": "0828a81c-294a-7c8a-b089-19b8d35c1d30"
+  },
+  {
+    "Amount": 486,
+    "TransactionId": "8edcbd25-63fb-a137-92b2-d6fdca77b42d",
+    "Cleared": "true",
+    "TransactionDateTime": "1997-02-13T22:30:09.870Z",
+    "AccountId": "99ea0832-a6b9-5d5e-1285-9035cecd26b1"
+  },
+  {
+    "Amount": 980,
+    "TransactionId": "232747cf-60d7-4446-e50b-59eb2e73486e",
+    "Cleared": "true",
+    "TransactionDateTime": "1992-06-24T08:30:39.388Z",
+    "AccountId": "0cff15f0-f8f6-26d0-8488-00990cc4cb41"
+  },
+  {
+    "Amount": 879,
+    "TransactionId": "d35a81b9-2e38-e29d-5891-bee5d9f632e6",
+    "Cleared": "true",
+    "TransactionDateTime": "2019-08-29T23:57:44.584Z",
+    "AccountId": "2d135fbf-eb8b-ef55-0770-02d8e0addb12"
+  },
+  {
+    "Amount": 864,
+    "TransactionId": "ae8c6fda-1469-4fe4-cc3d-e7400ed00fb7",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-05-19T19:07:27.435Z",
+    "AccountId": "44fc2792-6e2a-9541-100c-9f1dd2ac3667"
+  },
+  {
+    "Amount": 205,
+    "TransactionId": "5140b290-3117-b071-69dd-04577ae3fa48",
+    "Cleared": "true",
+    "TransactionDateTime": "2012-02-27T15:58:40.965Z",
+    "AccountId": "e051bd8c-c7c4-b5f2-3d5b-9e9a06b022a1"
+  },
+  {
+    "Amount": 174,
+    "TransactionId": "9fa340f5-ad56-e803-1a81-e42852376826",
+    "Cleared": "true",
+    "TransactionDateTime": "2002-04-13T01:26:43.729Z",
+    "AccountId": "7799d2f1-4c39-a99b-f96a-b07a527b6341"
+  },
+  {
+    "Amount": 482,
+    "TransactionId": "9b9a093c-85b0-bc62-7123-f498cb2341b3",
+    "Cleared": "true",
+    "TransactionDateTime": "1989-01-02T06:57:39.928Z",
+    "AccountId": "9c86a468-6bbd-9032-bcd7-2a13faa6f13a"
+  },
+  {
+    "Amount": 123,
+    "TransactionId": "c6cbc50c-24c5-5544-8136-f7a509679a5e",
+    "Cleared": "true",
+    "TransactionDateTime": "2019-05-11T01:38:57.151Z",
+    "AccountId": "3fa337d9-e2a2-7b15-25de-a6e8acfb2b8b"
+  },
+  {
+    "Amount": 13,
+    "TransactionId": "90e1bf22-1e9f-729d-bad8-052246b759e9",
+    "Cleared": "true",
+    "TransactionDateTime": "1999-06-05T13:16:56.122Z",
+    "AccountId": "4ada03f3-7a95-a2cb-4524-f148f1668bae"
+  },
+  {
+    "Amount": 264,
+    "TransactionId": "cf106f07-e69a-99e5-1583-ea28ed2c70dc",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-12-07T21:30:37.938Z",
+    "AccountId": "0bed8d05-a5d8-d00d-bdec-430c8a35f8d7"
+  },
+  {
+    "Amount": 951,
+    "TransactionId": "c65e46a0-dc2d-2a7a-98ee-3f48d82b68da",
+    "Cleared": "true",
+    "TransactionDateTime": "2007-01-19T15:04:26.594Z",
+    "AccountId": "448be5b0-bf2e-8fa7-1801-92bd42e366e3"
+  },
+  {
+    "Amount": 833,
+    "TransactionId": "8acb9b9c-0a83-8306-de5f-cf4d9c7c9928",
+    "Cleared": "true",
+    "TransactionDateTime": "2003-01-28T12:38:21.982Z",
+    "AccountId": "0b7c2250-c237-9f9c-7b0d-6e3848ba05b2"
+  },
+  {
+    "Amount": 484,
+    "TransactionId": "9d2ce6ad-5474-e596-0df2-3579c0235d03",
+    "Cleared": "true",
+    "TransactionDateTime": "1983-05-12T20:24:08.325Z",
+    "AccountId": "73bf5939-373d-ed18-499f-0d751534ed4e"
+  },
+  {
+    "Amount": 466,
+    "TransactionId": "0717f332-dba5-1dd6-3a4d-81e477ad53c7",
+    "Cleared": "true",
+    "TransactionDateTime": "2017-03-02T18:59:51.126Z",
+    "AccountId": "6543a5a5-86c7-bff1-7920-5e11a13fa473"
+  },
+  {
+    "Amount": 473,
+    "TransactionId": "fcde3e42-912a-bb06-55e0-5c3a841a67b1",
+    "Cleared": "true",
+    "TransactionDateTime": "2008-02-02T12:33:34.438Z",
+    "AccountId": "29aa51df-80f8-419f-e05d-9b5eaef8daca"
+  },
+  {
+    "Amount": 512,
+    "TransactionId": "16d256bf-18da-5a1b-fa66-c07d2d8c57ca",
+    "Cleared": "true",
+    "TransactionDateTime": "1982-05-02T10:31:56.131Z",
+    "AccountId": "b228783d-5eea-cfe2-8887-7ab175025238"
+  },
+  {
+    "Amount": 133,
+    "TransactionId": "1415b348-d748-8fa8-17e8-f79b8cd345a6",
+    "Cleared": "true",
+    "TransactionDateTime": "2006-03-21T11:43:48.829Z",
+    "AccountId": "b23b0b44-15ef-bf30-8e55-0cc6928d320d"
+  },
+  {
+    "Amount": 675,
+    "TransactionId": "56e101ed-0155-8c9b-766f-006786177f38",
+    "Cleared": "true",
+    "TransactionDateTime": "1988-01-24T22:15:01.025Z",
+    "AccountId": "3db48307-a34c-10ad-f094-0384cf4b1b57"
+  },
+  {
+    "Amount": 579,
+    "TransactionId": "278bfd37-83aa-e01d-8d32-7e5c725baada",
+    "Cleared": "true",
+    "TransactionDateTime": "2016-04-12T06:13:18.496Z",
+    "AccountId": "fc8c5d25-e702-183f-e62d-424730c448e9"
+  },
+  {
+    "Amount": 390,
+    "TransactionId": "8dc9d176-4bbb-9678-5b12-9c0da8a6217c",
+    "Cleared": "true",
+    "TransactionDateTime": "2018-12-06T03:58:06.631Z",
+    "AccountId": "45f915e6-8111-1a55-f0f2-40ab5cda6190"
+  },
+  {
+    "Amount": 832,
+    "TransactionId": "c37fe7e9-8ae8-4697-1bdc-c127947e6948",
+    "Cleared": "true",
+    "TransactionDateTime": "1992-10-04T16:16:43.481Z",
+    "AccountId": "47444724-a49f-58e1-8fc7-7e9d7d55281e"
+  },
+  {
+    "Amount": 598,
+    "TransactionId": "4125c7d3-a0ce-928b-1133-9df8f67922cf",
+    "Cleared": "true",
+    "TransactionDateTime": "2006-01-04T15:51:13.233Z",
+    "AccountId": "1721aa1c-fa86-6d96-5784-ccc5f06a2a50"
+  },
+  {
+    "Amount": 589,
+    "TransactionId": "b5725d8a-1b3a-d953-ef0b-50feb7d16b81",
+    "Cleared": "true",
+    "TransactionDateTime": "2006-04-05T09:37:11.243Z",
+    "AccountId": "8307c7a8-b5a2-7df7-4faa-60fb936edf1d"
+  },
+  {
+    "Amount": 701,
+    "TransactionId": "a678da09-c0f3-ce2b-aeaa-3e0395648f8a",
+    "Cleared": "true",
+    "TransactionDateTime": "2009-10-30T18:07:54.157Z",
+    "AccountId": "e6a6ecee-6dc7-b24a-02e9-af8a32d1535a"
+  },
+  {
+    "Amount": 119,
+    "TransactionId": "619e9941-6e2d-848e-ebca-6096b89a322c",
+    "Cleared": "true",
+    "TransactionDateTime": "1992-09-23T20:41:55.217Z",
+    "AccountId": "5116e940-7e5b-88eb-a0ba-f46eb523af1c"
+  },
+  {
+    "Amount": 637,
+    "TransactionId": "81b01f67-8224-159e-168a-742b7a8052b3",
+    "Cleared": "true",
+    "TransactionDateTime": "1994-05-12T05:22:29.775Z",
+    "AccountId": "b2b16be9-9782-9ccd-d295-2f6af8c11a00"
+  },
+  {
+    "Amount": 846,
+    "TransactionId": "3a0e7643-8667-fc3a-44b6-8cb13bddcf91",
+    "Cleared": "true",
+    "TransactionDateTime": "2017-02-27T03:57:22.562Z",
+    "AccountId": "6e7aa968-ccdc-4e13-631a-80e921bd607b"
+  },
+  {
+    "Amount": 692,
+    "TransactionId": "629a02d5-146c-65b1-3836-2cf06e9f2b9f",
+    "Cleared": "true",
+    "TransactionDateTime": "2018-10-05T15:57:13.716Z",
+    "AccountId": "fe7b9ce1-8fb8-ec9d-f55e-c5b98e336709"
+  },
+  {
+    "Amount": 400,
+    "TransactionId": "952498f0-14b7-4cf3-eae0-654fd5c4b014",
+    "Cleared": "true",
+    "TransactionDateTime": "2000-09-28T21:55:04.279Z",
+    "AccountId": "f0ecafb8-be3b-f477-8870-c16afb4ce7f7"
+  },
+  {
+    "Amount": 300,
+    "TransactionId": "0033e31f-4f8f-529b-fc45-9c36055c8be5",
+    "Cleared": "true",
+    "TransactionDateTime": "1999-05-02T02:03:46.612Z",
+    "AccountId": "e9294369-ef41-176e-d6f6-83813f92d712"
+  },
+  {
+    "Amount": 106,
+    "TransactionId": "12f30b31-9454-94b0-5620-fe592cc9b096",
+    "Cleared": "true",
+    "TransactionDateTime": "1994-11-29T01:44:37.043Z",
+    "AccountId": "1719ec37-e4ae-d45b-982f-2405616d8720"
+  },
+  {
+    "Amount": 588,
+    "TransactionId": "b6471cd4-a277-fe22-5f67-2f05adde44de",
+    "Cleared": "true",
+    "TransactionDateTime": "1997-07-04T01:36:11.886Z",
+    "AccountId": "be0b1b3a-34e7-1a60-efc6-37acbd3a9b48"
+  },
+  {
+    "Amount": 267,
+    "TransactionId": "548f1e24-5816-ccd1-01c0-4f7325c756f6",
+    "Cleared": "true",
+    "TransactionDateTime": "1984-06-08T20:41:16.807Z",
+    "AccountId": "173708c9-0662-e9be-cd4d-bd702f17b011"
+  },
+  {
+    "Amount": 463,
+    "TransactionId": "3ef8d9ab-39b2-6046-1119-c9202287ad55",
+    "Cleared": "true",
+    "TransactionDateTime": "2017-09-25T19:04:22.634Z",
+    "AccountId": "29ad9f00-3b41-9930-9399-92fd59267b12"
+  },
+  {
+    "Amount": 269,
+    "TransactionId": "c4c41718-24db-4a6f-f7c2-755f6ab52937",
+    "Cleared": "true",
+    "TransactionDateTime": "2015-05-28T16:49:16.581Z",
+    "AccountId": "a5705c3d-7091-ca2a-19ec-88ac33261472"
+  },
+  {
+    "Amount": 652,
+    "TransactionId": "4b59a36e-676b-1b96-c024-87f687bd93a7",
+    "Cleared": "true",
+    "TransactionDateTime": "2015-02-01T01:32:55.189Z",
+    "AccountId": "36106732-3c65-e05d-e604-9724345ca27b"
+  },
+  {
+    "Amount": 269,
+    "TransactionId": "8b0b7b62-d0de-00ce-28a4-cf86a8ac6720",
+    "Cleared": "true",
+    "TransactionDateTime": "2015-10-23T02:22:44.263Z",
+    "AccountId": "1691d78a-74e0-deb5-eddc-1816b39afcdb"
+  },
+  {
+    "Amount": 850,
+    "TransactionId": "3eeb7b6b-d5fe-a1b6-e392-32828bba5b15",
+    "Cleared": "true",
+    "TransactionDateTime": "2019-09-03T05:47:33.596Z",
+    "AccountId": "327d9c22-3711-fc9e-11f9-5708958ebcfe"
+  },
+  {
+    "Amount": 111,
+    "TransactionId": "f505e2dd-4936-22d1-361d-efb79cc5c54e",
+    "Cleared": "true",
+    "TransactionDateTime": "2012-09-27T17:57:03.797Z",
+    "AccountId": "3e00405c-7f6e-05f8-9d09-61467cb89b52"
+  },
+  {
+    "Amount": 501,
+    "TransactionId": "3255aa67-4677-3369-b8fc-a538dbe309d7",
+    "Cleared": "true",
+    "TransactionDateTime": "2014-02-18T09:54:09.411Z",
+    "AccountId": "5bd8cf81-73eb-aa92-6798-847d3e843c3e"
+  },
+  {
+    "Amount": 733,
+    "TransactionId": "14c6704c-6c38-75b7-2ba8-3bccdf7c2df2",
+    "Cleared": "true",
+    "TransactionDateTime": "2010-08-08T19:37:00.385Z",
+    "AccountId": "3751af44-6fb0-5889-9b17-06e96033a855"
+  },
+  {
+    "Amount": 212,
+    "TransactionId": "cea02376-9ced-166e-a2b7-c80cb2cbb0ad",
+    "Cleared": "true",
+    "TransactionDateTime": "2012-02-26T09:59:15.955Z",
+    "AccountId": "02683714-a26c-95de-8b09-efb3bb0eeb8e"
+  },
+  {
+    "Amount": 870,
+    "TransactionId": "e2b4f414-746a-227e-421c-1b070e6bd887",
+    "Cleared": "true",
+    "TransactionDateTime": "2019-02-19T14:56:52.062Z",
+    "AccountId": "a4814113-699f-0c22-35ac-9b841added1b"
+  },
+  {
+    "Amount": 341,
+    "TransactionId": "5d455703-9fe5-4120-6937-f2b4ca8e0e30",
+    "Cleared": "true",
+    "TransactionDateTime": "1983-02-24T16:08:24.697Z",
+    "AccountId": "b8b44b2e-d1bb-b9e8-6be7-80a7ba710c0c"
+  },
+  {
+    "Amount": 415,
+    "TransactionId": "8da4dd5c-f0d1-e019-5570-e4644a7caf5a",
+    "Cleared": "true",
+    "TransactionDateTime": "2012-05-28T02:00:12.292Z",
+    "AccountId": "f71de4f2-77c4-ce7d-3cf3-b6ebed2a74d3"
+  },
+  {
+    "Amount": 622,
+    "TransactionId": "a4198772-4403-df19-b1dd-738295aed93d",
+    "Cleared": "true",
+    "TransactionDateTime": "1999-01-09T05:33:55.081Z",
+    "AccountId": "26a2b2ba-2cdc-1050-0c8a-805918885f8b"
+  },
+  {
+    "Amount": 360,
+    "TransactionId": "e05ae9b7-5f80-32e3-4a4f-824016da77e9",
+    "Cleared": "true",
+    "TransactionDateTime": "1985-08-23T08:26:21.329Z",
+    "AccountId": "11bd5aa2-b169-8967-7004-704b60129a46"
+  },
+  {
+    "Amount": 962,
+    "TransactionId": "4e7b524b-f668-4214-dbb5-64dd6be0f11f",
+    "Cleared": "true",
+    "TransactionDateTime": "1990-02-07T01:02:38.305Z",
+    "AccountId": "0de68831-6ac9-c305-c9e5-f0635720dd77"
+  },
+  {
+    "Amount": 741,
+    "TransactionId": "93efb0b4-0b05-eadd-f922-5ca11d356282",
+    "Cleared": "true",
+    "TransactionDateTime": "1980-12-08T03:50:33.979Z",
+    "AccountId": "3d4256df-d5d6-094d-bb3d-8cb99e4f5f6d"
+  },
+  {
+    "Amount": 639,
+    "TransactionId": "60cb83b5-4f1f-203d-c139-f868fd7077c6",
+    "Cleared": "true",
+    "TransactionDateTime": "1993-10-18T06:33:43.957Z",
+    "AccountId": "8bf7aae7-b3a9-8938-e135-5015904f7e7e"
+  },
+  {
+    "Amount": 993,
+    "TransactionId": "4f59476a-058c-de58-7b3f-61433ced9c63",
+    "Cleared": "true",
+    "TransactionDateTime": "1996-11-18T21:16:58.843Z",
+    "AccountId": "244d4e22-1167-4e0c-e82e-76ea7f1bb60a"
+  },
+  {
+    "Amount": 708,
+    "TransactionId": "2f62d07f-8428-f2b8-3360-5117c54de1f9",
+    "Cleared": "true",
+    "TransactionDateTime": "1997-06-20T15:59:52.335Z",
+    "AccountId": "74f85a17-c1a4-f04b-7fb6-fab464cfd0b0"
+  },
+  {
+    "Amount": 991,
+    "TransactionId": "520c1772-0345-c661-2c67-18b01e45b88f",
+    "Cleared": "true",
+    "TransactionDateTime": "1983-03-25T06:11:32.019Z",
+    "AccountId": "ba3047ba-62e0-cfbc-fea9-c090ea424740"
+  },
+  {
+    "Amount": 708,
+    "TransactionId": "aad6f3ab-49cd-07cd-c063-59b8a7401858",
+    "Cleared": "true",
+    "TransactionDateTime": "2005-06-19T01:34:53.501Z",
+    "AccountId": "0bdc054c-5036-da39-da34-ee3ab1c93705"
+  },
+  {
+    "Amount": 185,
+    "TransactionId": "b6b4a8ca-5260-2588-40be-ab125c7e5338",
+    "Cleared": "true",
+    "TransactionDateTime": "2009-01-23T01:40:46.682Z",
+    "AccountId": "330e73dc-0ce3-c559-5970-ee90160077c9"
+  },
+  {
+    "Amount": 401,
+    "TransactionId": "2c768a42-c590-9bf7-ef1d-0be6301feb81",
+    "Cleared": "true",
+    "TransactionDateTime": "2006-10-04T00:35:52.533Z",
+    "AccountId": "7fc85438-e53b-268f-55ba-b1028cd66e4f"
+  },
+  {
+    "Amount": 59,
+    "TransactionId": "5c859adf-ba07-187e-9d49-6902ff43de03",
+    "Cleared": "true",
+    "TransactionDateTime": "1994-02-06T01:35:44.770Z",
+    "AccountId": "e1d34a35-af40-8308-c99d-f7aa088f9807"
+  },
+  {
+    "Amount": 134,
+    "TransactionId": "e3514eb8-5d73-1eaa-7829-fc595e9ac2a4",
+    "Cleared": "true",
+    "TransactionDateTime": "2003-11-21T00:30:31.053Z",
+    "AccountId": "614cfaa2-f1bd-d7cb-0ead-71fd522ea8d0"
+  },
+  {
+    "Amount": 413,
+    "TransactionId": "6f5458e3-55b7-1ae2-8c1c-b5d5556cc8a6",
+    "Cleared": "true",
+    "TransactionDateTime": "1989-12-30T10:15:20.513Z",
+    "AccountId": "baaf39ca-4158-3d54-c9c8-40ba0d9b7b71"
+  },
+  {
+    "Amount": 906,
+    "TransactionId": "84241541-86e3-56dc-ff49-7d1280e26c6b",
+    "Cleared": "true",
+    "TransactionDateTime": "1985-11-11T03:27:23.494Z",
+    "AccountId": "05a1ebec-21c5-0025-d99c-4b0ef3d7ce8d"
+  },
+  {
+    "Amount": 252,
+    "TransactionId": "ec30eaf7-fb57-fae6-0ba6-ec1957a73d9d",
+    "Cleared": "true",
+    "TransactionDateTime": "1980-12-18T21:07:11.399Z",
+    "AccountId": "5b4b872e-0db9-2e75-491e-08c318c0751d"
+  },
+  {
+    "Amount": 878,
+    "TransactionId": "f18c33ae-45fd-255f-7019-cdf273025683",
+    "Cleared": "true",
+    "TransactionDateTime": "1989-02-22T22:41:49.666Z",
+    "AccountId": "785903db-ea8a-8461-23c1-98741bb538a8"
+  }
+]
